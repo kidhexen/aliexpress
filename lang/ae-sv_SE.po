@@ -1,0 +1,1699 @@
+# Translation of AliPlugin in Swedish
+# This file is distributed under the same license as the AliPlugin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-16 14:33:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: AliPlugin\n"
+
+#: core/core.php:1005
+msgid "Nigerian naira (₦)"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:434
+msgid "Enable day timer for the products with exclusive discount price"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:438
+msgid "Hot Deal Timer"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:441
+msgid "Enable hour timer for the products with exclusive discount price"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:1329 core/request.php:46
+msgid "You can not upload more than 10,000 Products at once."
+msgstr ""
+
+#: core/tmpl.review.php:110 core/tmpl.review.php:120 core/tmpl.review.php:130
+#: core/tmpl.review.php:139 core/tmpl.review.php:149
+msgid "Order now"
+msgstr ""
+
+#: core/core.php:1014
+msgid "Thailand Baht (THB)"
+msgstr ""
+
+#: core/core.php:1009
+msgid "Peso mexicano (MXN)"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:445
+msgid "Alibaba"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:448
+msgid "Enable pop-up window with alibaba.com affiliate link"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:452
+msgid "Alibaba link"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:558
+msgid "CSV Import"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:559
+msgid "Import all categories, products and reviews from CSV file"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:929
+msgid "Big Sale"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:932
+msgid "Products that are involved in 11.11 Global Shopping Festival"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:195
+#: core/class.AliExpress.Settings.php:199
+msgid "Using this module you can bulk import multiple products at once on your store"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:219
+msgid "Mandatory fields are APP Key and Tracking ID"
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:224
+msgid "Mandatory fields are APP Key and Tracking ID."
+msgstr ""
+
+#: core/class.AliExpress.Settings.php:431
+msgid "Today&lsquo;s Deal"
+msgstr ""
+
+#: core/request.php:1522 core/request.php:1552
+msgid "I can't open file"
+msgstr "Jag kan inte öppna filen"
+
+#: core/request.php:1601
+msgid "Pick"
+msgstr "Välj"
+
+#: core/request.php:1601
+msgid "Name"
+msgstr "Namn"
+
+#: core/request.php:1601
+msgid "Size"
+msgstr "Storlek"
+
+#: core/request.php:1601
+msgid "Date"
+msgstr "Datum"
+
+#: core/core.php:996
+msgid "Bulgarian lev (BGN)"
+msgstr "Bulgariska lev (BGN)"
+
+#: core/core.php:1003
+msgid "Indian Rupee (₹)"
+msgstr "Indiska rupier (₹)"
+
+#: core/class.AliExpress.Settings.php:892
+#: core/class.AliExpress.Settings.php:1206 core/tmpl.review.php:186
+msgid "Fixed commission for all categories"
+msgstr "Fast provision för alla kategorier"
+
+#: core/class.AliExpress.Settings.php:506
+msgid "Export all categories, products and reviews to CSV file"
+msgstr "Exportera alla kategorier, produkter och recensioner till CSV-fil"
+
+#: core/class.AliExpress.Settings.php:509
+msgid "Export"
+msgstr "Export"
+
+#: core/class.AliExpress.Settings.php:529
+msgid "Download"
+msgstr "Hämta"
+
+#: core/class.AliExpress.Settings.php:535
+msgid "Import CSV File"
+msgstr "Importera CSV-fil"
+
+#: core/class.AliExpress.Settings.php:536
+msgid "import CSV description."
+msgstr "importera CSV beskrivning."
+
+#: core/class.AliExpress.Settings.php:547
+msgid "Select files and press upload"
+msgstr "Välj filer och tryck på uppladdning"
+
+#: core/class.AliExpress.Settings.php:562
+msgid "Import"
+msgstr "Import"
+
+#: core/class.AliExpress.Settings.php:574
+msgid "Files"
+msgstr "Filer"
+
+#: core/class.AliExpress.Settings.php:505
+msgid "CSV Export"
+msgstr "CSV export"
+
+#: core/core.php:1002
+msgid "Israeli New Sheqel (₪)"
+msgstr "Israeli New Sheqel (₪)"
+
+#: core/class.AliExpress.Settings.php:985
+#: core/class.AliExpress.Settings.php:1072
+msgid "Do not import the reviews with a rating less than selected"
+msgstr "Importera inte recensionerna med ett betyg lägre än valt"
+
+#: core/class.AliExpress.Settings.php:972
+#: core/class.AliExpress.Settings.php:1059
+msgid "Select Rating"
+msgstr "Välj betyg"
+
+#: core/class.AliExpress.Settings.php:980
+#: core/class.AliExpress.Settings.php:1067
+msgid "Star"
+msgstr "Stjärna"
+
+#: core/class.AliExpress.Settings.php:346
+msgid "One-time update can refresh only 25 products for one cycle."
+msgstr "En gångs uppdatering kan uppdatera endast 25 produkter för en cykel."
+
+#: core/class.AliExpress.Publication.php:67
+msgid "Other"
+msgstr "Övrig"
+
+#: core/class.AliExpress.Request2.php:64 core/class.AliExpress.Request2.php:88
+#: core/class.AliExpress.Request2.php:112
+msgid "Not found. Change search parameters and try again"
+msgstr "Hittades inte. Ändra sökparametrar och försök igen"
+
+#: core/class.AliExpress.Settings.php:228
+msgid "Standards and formats are used to calculate such things as product price."
+msgstr "Standarder och format används för att beräkna sådana saker som produktpriset."
+
+#: core/core.php:1167
+msgid "Bahasa Indonesia"
+msgstr "Indonesiska"
+
+#: core/core.php:1001
+msgid "Indonesian rupiah (Rp)"
+msgstr "Indonesiska Rupiah (Rp)"
+
+#: core/core.php:1006
+msgid "New Zealand dollar (NZ$)"
+msgstr "Nya Zeeland dollar (NZ $)"
+
+#: core/core.php:1010
+msgid "Philippine peso (₱)"
+msgstr "Filippinsk peso (₱)"
+
+#: core/class.AliExpress.Settings.php:1091
+msgid "Start Import Review"
+msgstr "Börja importera omdöme"
+
+#: core/class.AliExpress.Settings.php:1278 core/request.php:62
+msgid "Unit Type"
+msgstr "Enhetstyp"
+
+#: core/class.AliExpress.Settings.php:1284 core/request.php:67
+msgid "Piece"
+msgstr "Del"
+
+#: core/class.AliExpress.Settings.php:1285 core/request.php:68
+msgid "Lot"
+msgstr "varuparti"
+
+#: core/class.AliExpress.Settings.php:1296 core/request.php:70
+msgid "Import products with checked unit type"
+msgstr "Importera produkter med markerad enhetstyp"
+
+#: core/class.AliExpress.Settings.php:1300
+msgid "Publish Status"
+msgstr "Publicera status"
+
+#: core/class.AliExpress.Settings.php:1085
+msgid "Count of reviews"
+msgstr "Beräkning av betyg"
+
+#: core/class.AliExpress.Settings.php:218
+msgid "Settings"
+msgstr "Inställningar"
+
+#: core/class.AliExpress.Settings.php:223
+msgid "API"
+msgstr "API"
+
+#: core/class.AliExpress.Settings.php:232
+msgid "Updates"
+msgstr "Uppdateringar"
+
+#: core/class.AliExpress.Settings.php:264
+msgid "Update all products"
+msgstr "Uppdatera alla produkter"
+
+#: core/class.AliExpress.Settings.php:265
+msgid "Activate this option if you want to update all the products on your site at once"
+msgstr "Aktivera det här alternativet om du vill uppdatera alla produkter på din webbplats på en gång"
+
+#: core/class.AliExpress.Settings.php:272
+msgid "Update products"
+msgstr "Uppdatera produkter"
+
+#: core/class.AliExpress.Settings.php:966
+msgid "Review Uploading Tool"
+msgstr "Granska uppladdningsverktyg"
+
+#: core/class.AliExpress.Settings.php:967
+msgid "The process works in 4 steps. 10 reviews are added to each product on your store during every step."
+msgstr "Processen fungerar i 4 steg. 10 omdömen läggs till varje produkt på din butik under varje steg."
+
+#: core/class.AliExpress.Settings.php:968
+msgid "After completion of all 4 steps you will get up to 40 reviews for each item."
+msgstr "Efter slutförandet av alla 4 steg kommer du att få upp till 40 omdömen för varje objekt."
+
+#: core/class.AliExpress.Settings.php:969
+msgid "You can update reviews anytime without getting duplicated ones."
+msgstr "Du kan uppdatera recensioner när som helst utan att få några duplicerade."
+
+#: core/class.AliExpress.Settings.php:991
+msgid "Import Reviews"
+msgstr "Importera omdömen"
+
+#: core/class.AliExpress.Settings.php:285
+#: core/class.AliExpress.Settings.php:523
+#: core/class.AliExpress.Settings.php:1007
+msgid "Stats"
+msgstr "Statistik"
+
+#: core/class.AliExpress.Settings.php:292
+#: core/class.AliExpress.Settings.php:526
+#: core/class.AliExpress.Settings.php:1010
+msgid "Current position"
+msgstr "Nuvarande position"
+
+#: core/class.AliExpress.Settings.php:212
+#: core/class.AliExpress.Settings.php:1009
+msgid "Reviews"
+msgstr "Recensioner"
+
+#: core/class.AliExpress.Settings.php:214
+msgid "Add Reviews to your products."
+msgstr "Lägg till recensioner för dina produkter."
+
+#: core/init.php:185 core/init.php:275
+msgid "Specials"
+msgstr "Erbjudande"
+
+#: core/init.php:190 core/init.php:280
+msgid "Enable special"
+msgstr "Aktivera erbjudande"
+
+#: core/class.AliExpress.Settings.php:749
+#: core/class.AliExpress.Settings.php:1198
+msgid "Select the category if you want to upload products in your own categories. Leave this field blank to make the Plugin create categories and upload products automatically. Necessary when selected All Categories"
+msgstr "Välj kategori om du vill ladda upp produkter i dina egna kategorier. Lämna det här fältet tomt för att göra Plugin skapa kategorier och uppladdnings produkter automatiskt. Nödvändigt när Alla kategorier valts."
+
+#: core/request.php:74
+msgid "Free Shipping"
+msgstr "Gratis frakt"
+
+#: core/core.php:440
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: core/class.AliExpress.Settings.php:1269
+msgid "Shipping"
+msgstr "Frakt"
+
+#: core/class.AliExpress.Settings.php:1273 core/request.php:77
+msgid "Import products with free shipping option only"
+msgstr "Importera endast produkter med fri frakt alternativ"
+
+#: core/core.php:773
+msgid "Publish"
+msgstr "Publicera"
+
+#: core/core.php:774
+msgid "Draft"
+msgstr "Utkast"
+
+#: core/class.AliExpress.Settings.php:768
+#: core/class.AliExpress.Settings.php:1317
+msgid "Use Publish option if you want to publish products instantly. Use Draft option if you need to edit products before they appear on your site."
+msgstr "Använd Publicera alternativ om du vill publicera produkterna direkt. Använd Utkast alternativ om du vill redigera produkter innan de visas på din webbplats."
+
+#: core/class.AliExpress.Settings.php:350
+msgid "Product Deletion"
+msgstr "Produkt radering"
+
+#: core/class.AliExpress.Settings.php:352
+msgid "Delete Products"
+msgstr "Radera produkter"
+
+#: core/class.AliExpress.Settings.php:353
+msgid "The Plugin will remove products that are not available at AliExpress anymore."
+msgstr "Insticksprogrammet kommer att ta bort produkter som inte finns på AliExpress längre."
+
+#: core/class.AliExpress.Settings.php:692
+msgid "Reset Counter"
+msgstr "Återställningsräknare"
+
+#: core/menu.php:29
+msgid "AliPlugin Migrate"
+msgstr "Aliplugin migrera"
+
+#: core/menu.php:30
+msgid "For proper operation of the plugin necessary to make changes to the database."
+msgstr "För korrekt drift av insticksprogrammet som krävs för att göra ändringar i databasen."
+
+#: core/menu.php:35
+msgid "Number of necessary changes"
+msgstr "Antal nödvändiga förändringar"
+
+#: core/menu.php:38
+msgid "Amend"
+msgstr "Ändra"
+
+#: core/class.Products.php:63
+msgid "piece"
+msgstr "del"
+
+#: core/class.Products.php:63
+msgid "lot"
+msgstr "mängd"
+
+#: core/class.AliExpress.Settings.php:462
+msgid "Update all Tracking IDs and product affiliate links."
+msgstr "Uppdatera alla Spårnings ID och produkt affiliate länkar."
+
+#: core/core.php:1018
+msgid "South African Rand (ZAR)"
+msgstr "Sydafrikanska Rand (ZAR)"
+
+#: core/core.php:1008
+msgid "Malaysian Ringgit (MYR)"
+msgstr "Malaysiska Ringgit (MYR)"
+
+#: core/core.php:1011
+msgid "Polish Zloty (PLN)"
+msgstr "Polska Zloty (PLN)"
+
+#: core/core.php:1015
+msgid "South Korean Won (₩)"
+msgstr "Sydkoreanska Won (KRW)"
+
+#: core/openGraphProtocol.php:49
+msgid "Page %s"
+msgstr "Sida %"
+
+#: core/init.php:146 core/init.php:236
+msgid "SEO Title"
+msgstr "SEO titel"
+
+#: core/init.php:150 core/init.php:240
+msgid "Example: Samsung Galaxy Tab 10.1 GT"
+msgstr "Exempel: Samsung Galaxy Tab 10,1 GT"
+
+#: core/init.php:173 core/init.php:263 core/init.php:709
+msgid "Noindex"
+msgstr "Inget index"
+
+#: core/init.php:178 core/init.php:268 core/init.php:714
+msgid "Enable noindex"
+msgstr "Aktivera inget index"
+
+#: core/class.AliExpress.Settings.php:638
+msgid "Rounding"
+msgstr "Avrundning"
+
+#: core/class.AliExpress.Settings.php:642
+msgid "The Prices will be rounded off to an integer"
+msgstr "Priserna kommer att avrundas till ett heltal"
+
+#: core/request.php:960
+msgid "Are you sure you want to delete all products?"
+msgstr "Är du säker på att du vill ta bort alla produkter?"
+
+#: core/request.php:1009 core/request.php:1097
+msgid "Item not found"
+msgstr "Artikel hittades inte"
+
+#: core/openGraphProtocol.php:77
+msgid "Archive"
+msgstr "Arkiv"
+
+#: core/core.php:1172
+msgid "Russian"
+msgstr "Ryska"
+
+#: core/core.php:1173
+msgid "Thai"
+msgstr "Thai"
+
+#: core/core.php:1174
+msgid "Turkish"
+msgstr "Turkiska"
+
+#: core/core.php:1175
+msgid "Vietnamese"
+msgstr "Vietnamesiska"
+
+#: core/core.php:1176
+msgid "Hebrew"
+msgstr "Hebreiska"
+
+#: core/init.php:120
+msgid "SEO Metadata"
+msgstr "SEO Metadata"
+
+#: core/init.php:155 core/init.php:245
+msgid "SEO Description"
+msgstr "SEO Beskrivning"
+
+#: core/init.php:159 core/init.php:249
+msgid "Example: World Map PU Leather Hard Stand Case For Samsung Galaxy Tab 10.1 GT P7500 P7510 Free Shipping"
+msgstr "Exempel: Världskarta polyuretan läder, hårt bestående fodral för Samsung Galaxy Tab 10.1 GT P7500 P7510 Gratis frakt"
+
+#: core/init.php:164 core/init.php:254
+msgid "SEO Keywords"
+msgstr "SEO Nyckelord"
+
+#: core/core.php:1017
+msgid "US Dollar ($)"
+msgstr "US dollar ($)"
+
+#: core/core.php:1161
+msgid "English"
+msgstr "Engelska"
+
+#: core/core.php:1162
+msgid "Arabic"
+msgstr "Arabiska"
+
+#: core/core.php:1163
+msgid "German"
+msgstr "Tyska"
+
+#: core/core.php:1164
+msgid "Spanish"
+msgstr "Spanska"
+
+#: core/core.php:1165
+msgid "French"
+msgstr "Franska"
+
+#: core/core.php:1166
+msgid "Italian"
+msgstr "Italienska"
+
+#: core/core.php:1168
+msgid "Japanese"
+msgstr "Japanska"
+
+#: core/core.php:1169
+msgid "Korean"
+msgstr "Koreanska"
+
+#: core/core.php:1170
+msgid "Netherlandish"
+msgstr "Hollänska"
+
+#: core/core.php:1171
+msgid "Portuguese (Brasil)"
+msgstr "Portugisiska (Brasil)"
+
+#: core/class.AliExpress.Settings.php:1357
+msgid "Translate from"
+msgstr "Översätt från"
+
+#: core/class.AliExpress.Settings.php:1370
+msgid "Translate to"
+msgstr "Översätt till"
+
+#: core/class.AliExpress.Settings.php:1375
+msgid "This parameter can be changed in"
+msgstr "Denna parameter kan ändras i"
+
+#: core/class.AliExpress.Settings.php:1389
+msgid "Pages"
+msgstr "Sidor"
+
+#: core/class.AliExpress.Settings.php:1392
+msgid "Product Categories"
+msgstr "Produktkategorier"
+
+#: core/class.AliExpress.Settings.php:1406
+msgid "Translate Now"
+msgstr "Översätt nu"
+
+#: core/class.AliExpress.Settings.php:1425
+msgid "Original Title"
+msgstr "Originaltitel"
+
+#: core/class.AliExpress.Settings.php:1426
+msgid "Action"
+msgstr "Åtgärd"
+
+#: core/class.AliExpress.Settings.php:1433
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: core/class.AliExpress.Settings.php:1453
+msgid "Repair Original"
+msgstr "Reparera original"
+
+#: core/class.AliExpress.Settings.php:427
+msgid "Select language used for importing products data"
+msgstr "Välj språk som används för att importera produkt information"
+
+#: core/class.AliExpress.Settings.php:414
+msgid "Language"
+msgstr "Språk"
+
+#: core/class.AliExpress.Settings.php:240
+msgid "Translation"
+msgstr "Översättning"
+
+#: core/class.AliExpress.Settings.php:241
+msgid "Translate Page Titles and Categories"
+msgstr "Översätt sidrubriker och kategorier"
+
+#: core/core.php:1013
+msgid "Saudi Riyal (SAR)"
+msgstr "Saudisk Riyal (SAR)"
+
+#: core/core.php:1016
+msgid "United Arab Emirates Dirham (AED)"
+msgstr "Förenade Arabemiraten dirham (AED)"
+
+#: core/tmpl.review.php:90
+msgid "No Follow"
+msgstr "Följ inte"
+
+#: core/tmpl.review.php:97
+msgid "Save Shortcode"
+msgstr "Spara kortkod"
+
+#: core/tmpl.review.php:62
+msgid "Image on Right, Text on Left"
+msgstr "Bild till höger, text till vänster"
+
+#: core/tmpl.review.php:63
+msgid "Image on Top, Text on Below"
+msgstr "Bild på toppen, text nedan"
+
+#: core/tmpl.review.php:64
+msgid "Image on Below, Text on Top"
+msgstr "Bild nedan, text på toppen"
+
+#: core/tmpl.review.php:65
+msgid "Text Only"
+msgstr "Endast text"
+
+#: core/tmpl.review.php:66
+msgid "Image Only"
+msgstr "Endast bild"
+
+#: core/tmpl.review.php:72
+msgid "Features"
+msgstr "Funktioner"
+
+#: core/tmpl.review.php:79
+msgid "Open in New Window"
+msgstr "Öppna i nytt fönster"
+
+#: core/tmpl.review.php:37
+msgid "Full Size"
+msgstr "Full storlek"
+
+#: core/tmpl.review.php:46
+msgid "Alignment"
+msgstr "Justering"
+
+#: core/tmpl.review.php:48
+msgid "Left"
+msgstr "Vänster"
+
+#: core/tmpl.review.php:49
+msgid "Right"
+msgstr "Höger"
+
+#: core/tmpl.review.php:50
+msgid "Center"
+msgstr "Centrum"
+
+#: core/tmpl.review.php:59
+msgid "Layout"
+msgstr "Layout"
+
+#: core/tmpl.review.php:61
+msgid "Image on Left, Text on Right"
+msgstr "Bild till vänster, text till höger"
+
+#: core/shortcodes.php:102 core/shortcodes.php:111 core/shortcodes.php:120
+#: core/shortcodes.php:128 core/shortcodes.php:137 core/shortcodes.php:153
+#: core/tmpl.review.php:109 core/tmpl.review.php:119 core/tmpl.review.php:129
+#: core/tmpl.review.php:138 core/tmpl.review.php:148
+msgid "List Price"
+msgstr "Listpris"
+
+#: core/tmpl.review.php:3
+msgid "Insert Products"
+msgstr "Infoga produkter"
+
+#: core/tmpl.review.php:7
+msgid "Back"
+msgstr "Tillbaka"
+
+#: core/tmpl.review.php:33
+msgid "Image Size"
+msgstr "Bild storlek"
+
+#: core/tmpl.review.php:35
+msgid "Small 50x50"
+msgstr "Liten 50x50"
+
+#: core/tmpl.review.php:36
+msgid "Medium 220x220"
+msgstr "Medium 220x220"
+
+#: core/request.php:809
+msgid "Link"
+msgstr "Länk"
+
+#: core/request.php:949
+msgid "You did not indicate how many imported products"
+msgstr "Du angav inte hur många importerade produkter"
+
+#: core/request.php:950
+msgid "You specified a value greater than can be import"
+msgstr "Du angav ett värde som är större än vad som kan importeras"
+
+#: core/request.php:951
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+#: core/request.php:955
+msgid "Get link"
+msgstr "Erhåll länk"
+
+#: core/request.php:956
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: core/request.php:957
+msgid "Prev"
+msgstr "Föregående"
+
+#: core/request.php:958
+msgid "Next"
+msgstr "Nästa"
+
+#: core/request.php:959
+msgid "This product does not participate in the Affiliate Program"
+msgstr "Denna produkt deltar inte i Affiliate programmet"
+
+#: core/shortcodes.php:86
+msgid "Buy now"
+msgstr "Köp nu"
+
+#: core/request.php:640 core/request.php:649 core/request.php:685
+#: core/request.php:694
+msgid "Publish failed"
+msgstr "Publicera misslyckades"
+
+#: core/request.php:653 core/request.php:700
+msgid "Publish success"
+msgstr "Publicera lyckades"
+
+#: core/request.php:799
+msgid "Wrong Request!"
+msgstr "Fel förfrågan!"
+
+#: core/request.php:209
+msgid "Sort by: "
+msgstr "Sortera efter:"
+
+#: core/request.php:211 core/request.php:229 core/request.php:311
+#: core/request.php:469
+msgid "Volume"
+msgstr "Volume"
+
+#: core/request.php:212
+msgid "Latest"
+msgstr "Senaste"
+
+#: core/request.php:223 core/request.php:305 core/request.php:463
+msgid "Your commission is calculated based on your Affiliate Level"
+msgstr "Din provision beräknas utifrån din Affiliate nivå"
+
+#: core/request.php:225 core/request.php:307 core/request.php:465
+msgid "Commission"
+msgstr "Provision"
+
+#: core/request.php:227 core/request.php:309 core/request.php:467
+msgid "Commission you will earn"
+msgstr "Provision du kommer att tjäna"
+
+#: core/request.php:233 core/request.php:315 core/request.php:473
+msgid "Rating"
+msgstr "Betyg"
+
+#: core/request.php:235 core/request.php:317 core/request.php:475
+msgid "Average star rating of the product on a 5-star scale"
+msgstr "Genomsnittligt antal stjärnor för produkten på en 5-stjärniga skala"
+
+#: core/init.php:494 core/request.php:217 core/request.php:299
+#: core/request.php:457 core/tmpl.review.php:24
+msgid "Thumbnail"
+msgstr "Miniatyrbild"
+
+#: core/request.php:221 core/request.php:303 core/request.php:461
+msgid "Rate"
+msgstr "Betyg"
+
+#: core/init.php:500
+msgid "Stock"
+msgstr "Lager"
+
+#: core/init.php:566
+msgid "Show All"
+msgstr "Visa alla"
+
+#: core/request.php:45 core/request.php:204 core/request.php:295
+#: core/request.php:454
+msgid "Total number of Products available for importing"
+msgstr "Totalt antal produkter tillgängliga för import"
+
+#: core/request.php:81 core/request.php:952
+msgid "Import Now"
+msgstr "Importera nu"
+
+#: core/request.php:82 core/request.php:953
+msgid "Search Again"
+msgstr "Sök igen"
+
+#: core/request.php:83
+msgid "Stop Import"
+msgstr "Stoppa import"
+
+#: core/request.php:93 core/request.php:245 core/request.php:325
+#: core/request.php:478
+msgid "Successfully imported"
+msgstr "Framgångsrikt importerats"
+
+#: core/request.php:99 core/request.php:251 core/request.php:331
+#: core/request.php:478
+msgid "Could not be imported"
+msgstr "Det gick inte att importera"
+
+#: core/request.php:200 core/request.php:291
+msgid "Select Products to Import"
+msgstr "Välj produkter att importera"
+
+#: core/init.php:305
+msgid "Affiliate link"
+msgstr "Affiliate länk"
+
+#: core/init.php:313
+msgid "Availability"
+msgstr "Tillgänglighet"
+
+#: core/init.php:329
+msgid "Purchase volume"
+msgstr "Inköpsvolym"
+
+#: core/init.php:338
+msgid "Pieces per package"
+msgstr "Antal per förpackning"
+
+#: core/init.php:346
+msgid "Way of packaging"
+msgstr "Förpackningssätt"
+
+#: core/init.php:354
+msgid "Images"
+msgstr "Bilder"
+
+#: core/init.php:384
+msgid "Attributes"
+msgstr "Attribut"
+
+#: core/init.php:493
+msgid "Select All"
+msgstr "Välj alla"
+
+#: core/init.php:97
+msgid "Product restored to revision from %s"
+msgstr "Produkt återställd till revidering från %s"
+
+#: core/init.php:98
+msgid "Product published. <a href=\"%s\">View product</a>"
+msgstr "Produkt publicerad. <a href=\"%s\">Visa produkt</a>"
+
+#: core/init.php:99
+msgid "Product saved."
+msgstr "Produkt sparad."
+
+#: core/init.php:100
+msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Produkt lämnad. <a target=\"_blank\" href=\"%s\">Förhandsvisa produkt</a>"
+
+#: core/init.php:101
+msgid "Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview product</a>"
+msgstr "Produkt schemalagd till: <strong>%1$s</strong>.<a target=\"_blank\" href=\"%2$s\"> Förhandsvisa produkt </a>"
+
+#: core/init.php:102
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: core/init.php:103
+msgid "Product draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Produkt utkast uppdaterat. <a target=\"_blank\" href=\"%s\"> Förhandsvisa produkt </a>"
+
+#: core/init.php:204
+msgid "Products Option"
+msgstr "Produkt alternativ"
+
+#: core/init.php:287 core/init.php:499
+msgid "Price"
+msgstr "Pris"
+
+#: core/init.php:291
+msgid "Example: US $14.98"
+msgstr "Exempel: US $14,98"
+
+#: core/init.php:296
+msgid "Sale Price"
+msgstr "Försäljningspris"
+
+#: core/init.php:300
+msgid "Example: US $10.44"
+msgstr "Exempel: US $10,44"
+
+#: core/init.php:168 core/init.php:258
+msgid "Example: screen protector"
+msgstr "Exempel: skärmskydd"
+
+#: core/init.php:23
+msgid "Products not found"
+msgstr "Produkter som inte hittas"
+
+#: core/init.php:24
+msgid "Trash is empty"
+msgstr "Papperskorgen är tom"
+
+#: core/init.php:49 core/init.php:496
+msgid "Category"
+msgstr "Kategori"
+
+#: core/init.php:51
+msgid "All categories"
+msgstr "Alla kategorier"
+
+#: core/init.php:52
+msgid "Parent category"
+msgstr "Huvudkategori"
+
+#: core/init.php:53
+msgid "Parent category: "
+msgstr "Huvudkategori "
+
+#: core/init.php:54
+msgid "Edit category"
+msgstr "Redigera kategori"
+
+#: core/init.php:55
+msgid "Update category"
+msgstr "Uppdatera kategori"
+
+#: core/init.php:56
+msgid "Add a new category"
+msgstr "Lägg till en ny kategori"
+
+#: core/init.php:57
+msgid "The new name of the category"
+msgstr "Det nya namnet på kategorin"
+
+#: core/init.php:93
+msgid "Product updated. <a href=\"%s\">View product</a>"
+msgstr "Produkt uppdaterad. <a href=\"%s\"> Visa produkt </a>"
+
+#: core/init.php:94
+msgid "Custom field updated."
+msgstr "Anpassat fält uppdaterat."
+
+#: core/init.php:95
+msgid "Custom field deleted."
+msgstr "Anpassat fält raderat."
+
+#: core/init.php:96
+msgid "Product updated."
+msgstr "Produkt uppdaterad."
+
+#: core/core.php:998
+msgid "Chinese Yuan (CN¥)"
+msgstr "Kinesiska Yuan (CN ¥)"
+
+#: core/core.php:999
+msgid "Czech Republic Koruna (CZK)"
+msgstr "Tjeckien Koruna (CZK)"
+
+#: core/core.php:1000
+msgid "Euro (€)"
+msgstr "Euro (€)"
+
+#: core/core.php:1004
+msgid "British Pound Sterling (£)"
+msgstr "Brittiskt Pund Sterling (£)"
+
+#: core/core.php:1007
+msgid "Norwegian Krone (NOK)"
+msgstr "Norska Kronor (NOK)"
+
+#: core/core.php:1012
+msgid "Russian Ruble (RUB)"
+msgstr "Rysk Rubel (RUB)"
+
+#: core/init.php:15 core/init.php:28
+msgid "Item"
+msgstr "Artikel"
+
+#: core/init.php:16
+msgid "Add new"
+msgstr "Lägg till ny"
+
+#: core/init.php:17
+msgid "Add a new Item"
+msgstr "Lägg till en ny artikel"
+
+#: core/init.php:18
+msgid "Edit Item"
+msgstr "Redigera artikel"
+
+#: core/init.php:19
+msgid "New Item"
+msgstr "Ny artikel"
+
+#: core/init.php:20
+msgid "All Items"
+msgstr "Alla artiklar"
+
+#: core/init.php:21
+msgid "View"
+msgstr "Granska"
+
+#: core/core.php:469
+msgid "Watches"
+msgstr "Klockor"
+
+#: core/class.AliExpress.Settings.php:288
+#: core/class.AliExpress.Settings.php:1008 core/core.php:642 core/init.php:14
+#: core/init.php:26
+msgid "Products"
+msgstr "Produkter"
+
+#: core/core.php:670
+msgid "No categories"
+msgstr "Inga kategorier"
+
+#: core/core.php:738
+msgid "failed: "
+msgstr "misslyckades:"
+
+#: core/core.php:740
+msgid "failed to connection"
+msgstr "misslyckats med att ansluta"
+
+#: core/core.php:762
+msgid "License type: %s"
+msgstr "Licens typ:%s"
+
+#: core/core.php:951
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr "Ett oväntat HTTP fel uppstod under API begäran. </p> <p> <a href=\"?\" onclick=\"document.location.reload(); return false;\"> Försök igen </a>"
+
+#: core/core.php:959
+msgid "An unknown error occurred"
+msgstr "Ett okänt fel inträffade"
+
+#: core/core.php:994
+msgid "Australian Dollar (A$)"
+msgstr "Australisk dollar (A $)"
+
+#: core/core.php:995
+msgid "Brazilian Real (R$)"
+msgstr "Brasilianska Real (R $)"
+
+#: core/core.php:997
+msgid "Canadian Dollar (CA$)"
+msgstr "Kanadensiska dollar (CA $)"
+
+#: core/core.php:456
+msgid "Home Appliances"
+msgstr "Vitvaror"
+
+#: core/core.php:457
+msgid "Industry & Business"
+msgstr "Industri & företag"
+
+#: core/core.php:458
+msgid "Jewelry & Watch"
+msgstr "Smycken & Armbandsur"
+
+#: core/core.php:459
+msgid "Lights & Lighting"
+msgstr "Ljus & belysning"
+
+#: core/core.php:460
+msgid "Luggage & Bags"
+msgstr "Bagage & Väskor"
+
+#: core/core.php:461
+msgid "Office & School Supplies"
+msgstr "Kontor & skolmaterial"
+
+#: core/core.php:462
+msgid "Phones & Telecommunications"
+msgstr "Telefoner och telekommunikation"
+
+#: core/core.php:463
+msgid "Security & Protection"
+msgstr "Säkerhet och skydd"
+
+#: core/core.php:464
+msgid "Shoes"
+msgstr "Skor"
+
+#: core/core.php:465
+msgid "Special Category"
+msgstr "Särskild kategori"
+
+#: core/core.php:466
+msgid "Sports & Entertainment"
+msgstr "Sport & underhållning"
+
+#: core/core.php:467
+msgid "Tools"
+msgstr "Verktyg"
+
+#: core/core.php:468
+msgid "Toys & Hobbies"
+msgstr "Leksaker & Hobby"
+
+#: core/core.php:447
+msgid "Consumer Electronics"
+msgstr "Leksaker & Hobby"
+
+#: core/core.php:448
+msgid "Customized Products"
+msgstr "Kundanpassade produkter"
+
+#: core/core.php:449
+msgid "Electrical Equipment & Supplies"
+msgstr "Elektrisk utrustning och anslutningar"
+
+#: core/core.php:450
+msgid "Electronic Components & Supplies"
+msgstr "Elektroniska komponenter och anslutningar"
+
+#: core/core.php:451
+msgid "Food"
+msgstr "Mat"
+
+#: core/core.php:452
+msgid "Furniture"
+msgstr "Möbler"
+
+#: core/core.php:453
+msgid "Hair & Accessories"
+msgstr "Hår & tillbehör"
+
+#: core/core.php:454
+msgid "Hardware"
+msgstr "Hårdvaror"
+
+#: core/core.php:455
+msgid "Home & Garden"
+msgstr "Hem & Trädgård"
+
+#: core/core.php:420
+msgid "Restore"
+msgstr "Återställ"
+
+#: core/core.php:441
+msgid "Apparel & Accessories"
+msgstr "Kläder och tillbehör"
+
+#: core/core.php:442
+msgid "Automobiles & Motorcycles"
+msgstr "Bilar och motorcyklar"
+
+#: core/core.php:443
+msgid "Baby Products"
+msgstr "Babyprodukter"
+
+#: core/core.php:444
+msgid "Beauty & Health"
+msgstr "Skönhet & Hälsa"
+
+#: core/core.php:445
+msgid "Computer & Networking"
+msgstr "Dator och nätverk"
+
+#: core/core.php:446
+msgid "Construction & Real Estate"
+msgstr "Bygg & Fastigheter"
+
+#: core/class.AliExpress.Settings.php:1328
+msgid "Total number of Products available for importing:"
+msgstr "Totalt antal produkter tillgängliga för import:"
+
+#: core/request.php:205
+msgid "You can upload not more than 10,000 Products at once."
+msgstr "Du kan ladda upp högst 10.000 produkter på en gång."
+
+#: core/class.AliExpress.Settings.php:1333 core/request.php:50
+msgid "Choose the number of products to import"
+msgstr "Välj antalet produkter att importera"
+
+#: core/class.AliExpress.Settings.php:1338
+msgid "Start Import"
+msgstr "Starta import"
+
+#: core/class.AliExpress.Settings.php:1517
+#: core/class.AliExpress.Settings.php:1558
+#: core/class.AliExpress.Settings.php:1595
+#: core/class.AliExpress.Settings.php:1617
+msgid "saved"
+msgstr "sparad"
+
+#: core/class.AliExpress.Settings.php:1541
+msgid "Currency converter settings will not be saved"
+msgstr "Valutakonverterare inställningar sparas inte"
+
+#: core/class.AliExpress.Settings.php:1558
+msgid "Currency converter settings"
+msgstr "Valutaomvandlare inställningar"
+
+#: core/class.AliExpress.Settings.php:1595
+#: core/class.AliExpress.Settings.php:1617
+msgid "Setting"
+msgstr "Inställning"
+
+#: core/class.AliExpress.Settings.php:1676 core/init.php:497
+msgid "Views"
+msgstr "Visningar"
+
+#: core/class.AliExpress.Settings.php:1677 core/init.php:498
+msgid "Redirects"
+msgstr "Omdirigeringar"
+
+#: core/core.php:408 core/menu.php:11
+msgid "AliPlugin"
+msgstr "AliPlugin"
+
+#: core/class.AliExpress.Settings.php:1454 core/core.php:418
+msgid "Translate"
+msgstr "Översätt"
+
+#: core/class.AliExpress.Settings.php:806
+#: core/class.AliExpress.Settings.php:822
+msgid "Promote with Link"
+msgstr "Annonsera med länk"
+
+#: core/class.AliExpress.Settings.php:810
+#: core/class.AliExpress.Settings.php:826
+msgid "HTML Code"
+msgstr "HTML-kod"
+
+#: core/class.AliExpress.Settings.php:818
+msgid "Banner Preview"
+msgstr "Banderoll förhandsvisning"
+
+#: core/class.AliExpress.Settings.php:846
+msgid "General Search"
+msgstr "Allmän sökning"
+
+#: core/class.AliExpress.Settings.php:847
+msgid "Search by Product ID"
+msgstr "Sök med Produkt ID"
+
+#: core/class.AliExpress.Settings.php:881
+#: core/class.AliExpress.Settings.php:1184 core/tmpl.review.php:176
+msgid "Enter Keywords"
+msgstr "Ange sökord"
+
+#: core/class.AliExpress.Settings.php:884
+#: core/class.AliExpress.Settings.php:1187 core/tmpl.review.php:179
+msgid "Leave the field blank to import ALL products from selected category"
+msgstr "Lämna fältet tomt för att importera alla produkter från vald kategori"
+
+#: core/class.AliExpress.Settings.php:889
+#: core/class.AliExpress.Settings.php:1203 core/init.php:321
+#: core/tmpl.review.php:183
+msgid "Commission Rate"
+msgstr "Provisionssats"
+
+#: core/class.AliExpress.Settings.php:897
+#: core/class.AliExpress.Settings.php:1211 core/tmpl.review.php:190
+msgid "Purchase Volume"
+msgstr "Inköpsvolym"
+
+#: core/class.AliExpress.Settings.php:901
+#: core/class.AliExpress.Settings.php:1215 core/init.php:333
+#: core/request.php:231 core/request.php:313 core/request.php:471
+#: core/tmpl.review.php:194
+msgid "The amount of purchases of the product over the last 30-day period"
+msgstr "Mängden av inköp av produkten under den senaste 30-dagarsperioden"
+
+#: core/class.AliExpress.Settings.php:909
+#: core/class.AliExpress.Settings.php:1223 core/tmpl.review.php:208
+msgid "Feedback Score"
+msgstr "Feedback poäng"
+
+#: core/class.AliExpress.Settings.php:913
+#: core/class.AliExpress.Settings.php:1227 core/tmpl.review.php:212
+msgid "The total number of positive feedback received by a seller"
+msgstr "Det totala antalet positiva feedback erhållna av en säljare"
+
+#: core/class.AliExpress.Settings.php:921
+#: core/class.AliExpress.Settings.php:1235 core/request.php:210
+#: core/request.php:219 core/request.php:301 core/request.php:459
+#: core/tmpl.review.php:201
+msgid "Unit Price"
+msgstr "Styckpris"
+
+#: core/class.AliExpress.Settings.php:1110
+msgid "Search for products by using the product ID"
+msgstr "Sök efter produkter genom att använda produkt-ID"
+
+#: core/class.AliExpress.Settings.php:1110
+msgid "Where can I find product ID?"
+msgstr "Var hittar jag produkt-ID?"
+
+#: core/class.AliExpress.Settings.php:1115
+msgid "Enter Product ID or a list of Product IDs separated by commas"
+msgstr "Ange Produkt ID eller en lista över produkt ID separerade med kommatecken"
+
+#: core/class.AliExpress.Settings.php:1121 core/init.php:22 core/init.php:50
+msgid "Search"
+msgstr "Sök"
+
+#: core/class.AliExpress.Settings.php:1079
+#: core/class.AliExpress.Settings.php:1265
+msgid "Enabled Scheduled Import"
+msgstr "Aktiverad schemalagd import"
+
+#: core/class.AliExpress.Settings.php:227
+msgid "Currency"
+msgstr "Valuta"
+
+#: core/class.AliExpress.Settings.php:615
+msgid "Select Currency"
+msgstr "Välj valuta"
+
+#: core/class.AliExpress.Settings.php:625
+msgid "Convert U.S. Dollars to foreign currencies"
+msgstr "Omvandla amerikanska dollar till utländska valutor"
+
+#: core/class.AliExpress.Settings.php:633
+msgid "Enable currency converter"
+msgstr "Aktivera valutaomvandlare"
+
+#: core/class.AliExpress.Settings.php:236
+msgid "Cleanup"
+msgstr "Städa"
+
+#: core/class.AliExpress.Settings.php:237
+msgid "All existent products imported in your store will be removed."
+msgstr "Alla existerande produkter som importeras i din butik kommer att tas bort."
+
+#: core/class.AliExpress.Settings.php:490
+msgid "Remove"
+msgstr "Ta bort"
+
+#: core/class.AliExpress.Settings.php:743
+#: core/class.AliExpress.Settings.php:1192 core/init.php:48 core/init.php:58
+msgid "Categories"
+msgstr "Kategorier"
+
+#: core/class.AliExpress.Settings.php:751
+#: core/class.AliExpress.Settings.php:1200
+msgid "Add new Category"
+msgstr "Lägg till ny kategori"
+
+#: core/class.AliExpress.Settings.php:792 core/request.php:30
+#: core/request.php:39 core/request.php:192 core/request.php:202
+#: core/request.php:283 core/request.php:293 core/request.php:446
+msgid "Close"
+msgstr "Stäng"
+
+#: core/class.AliExpress.Settings.php:795
+msgid "Promoted by link"
+msgstr "Marknadsförd av länken"
+
+#: core/class.AliExpress.Settings.php:798
+msgid "Promoted by banner"
+msgstr "Marknadsförd av banderoll"
+
+#: core/class.AliExpress.Settings.php:459
+msgid "Update Links"
+msgstr "Uppdatera länkar"
+
+#: core/class.AliExpress.Settings.php:277
+#: core/class.AliExpress.Settings.php:470
+#: core/class.AliExpress.Settings.php:485
+#: core/class.AliExpress.Settings.php:515
+#: core/class.AliExpress.Settings.php:567
+#: core/class.AliExpress.Settings.php:996
+#: core/class.AliExpress.Settings.php:1413 core/request.php:105
+#: core/request.php:478 core/request.php:954
+msgid "Overall Progress"
+msgstr "Totalt framsteg"
+
+#: core/class.AliExpress.Settings.php:299
+#: core/class.AliExpress.Settings.php:1517
+msgid "Automatic Updates"
+msgstr "Automatiska uppdateringar"
+
+#: core/class.AliExpress.Settings.php:300
+msgid "Auto updating system will keep your product info fresh with the latest data from AliExpress."
+msgstr "Det automatiska uppdateringssystemet kommer att hålla din produktinformation färskt med de senaste uppgifterna från AliExpress."
+
+#: core/class.AliExpress.Settings.php:323
+#: core/class.AliExpress.Settings.php:630
+#: core/class.AliExpress.Settings.php:755
+#: core/class.AliExpress.Settings.php:1077
+#: core/class.AliExpress.Settings.php:1262
+msgid "Status"
+msgstr "Status"
+
+#: core/class.AliExpress.Settings.php:326
+msgid "Enable auto updating system"
+msgstr "Aktivera automatiskt uppdateringssystem"
+
+#: core/class.AliExpress.Settings.php:331
+#: core/class.AliExpress.Settings.php:1042
+#: core/class.AliExpress.Settings.php:1243
+msgid "Select Interval"
+msgstr "Välj intervall"
+
+#: core/class.AliExpress.Settings.php:1257
+msgid "One-time update can refresh only 10 products for one cycle."
+msgstr "Engångs uppdatering kan uppdatera endast 10 produkter för en cykel."
+
+#: core/class.AliExpress.Settings.php:1424 core/init.php:495
+#: core/request.php:218 core/request.php:300 core/request.php:458
+#: core/tmpl.review.php:15
+msgid "Title"
+msgstr "Titel"
+
+#: core/class.AliExpress.Settings.php:202
+msgid "Selective Import"
+msgstr "Selektiv Import"
+
+#: core/class.AliExpress.Settings.php:203
+msgid "Find and select particular products to import"
+msgstr "Hitta och välj vissa produkter att importera"
+
+#: core/class.AliExpress.Settings.php:206
+msgid "Scheduled Import"
+msgstr "Schemalagd import"
+
+#: core/class.AliExpress.Settings.php:207
+msgid "Using this module the system will automatically import and update products on your site according  to given parameters"
+msgstr "Med den här modulen kommer systemet att automatiskt importera och uppdatera produkter på din webbplats enligt givna parametrar"
+
+#: core/class.AliExpress.Settings.php:666
+msgid "Total Number of Products"
+msgstr "Totalt antal produkter"
+
+#: core/class.AliExpress.Settings.php:672
+msgid "Total Products Views"
+msgstr "Totalt antal produkt visningar"
+
+#: core/class.AliExpress.Settings.php:678
+msgid "Total Redirected to AliExpress"
+msgstr "Totalt omdirigerat till AliExpress"
+
+#: core/class.AliExpress.Settings.php:687
+msgid "How It Works"
+msgstr "Hur det fungerar"
+
+#: core/class.AliExpress.Settings.php:688
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: core/class.AliExpress.Settings.php:712
+msgid "Top"
+msgstr "Överst"
+
+#: core/class.AliExpress.Settings.php:721
+msgid "Products Performances"
+msgstr "Produkters prestanda"
+
+#: core/class.AliExpress.Settings.php:723
+#: core/class.AliExpress.Settings.php:938
+#: core/class.AliExpress.Settings.php:1322 core/tmpl.review.php:219
+msgid "Apply Filter"
+msgstr "Använd filter"
+
+#: core/class.AliExpress.Settings.php:378
+msgid "The following fields are required in order to send requests to AliExpress and retrieve data about products."
+msgstr "Följande fält är nödvändiga för att skicka förfrågningar till AliExpress för att hämta data om produkter."
+
+#: core/class.AliExpress.Settings.php:381
+msgid "APP Key"
+msgstr "APP nyckel"
+
+#: core/class.AliExpress.Settings.php:388
+msgid "Tracking ID"
+msgstr "Spårnings-ID"
+
+#: core/class.AliExpress.Settings.php:394
+msgid "Select Method"
+msgstr "Välj metod"
+
+#: core/class.AliExpress.Settings.php:410
+msgid "Select method used to request data from AliExpress and test connection"
+msgstr "Välj metod som används för att begära uppgifter från AliExpress och testa anslutningen"
+
+#: core/class.AliExpress.Settings.php:384
+msgid "Test Connection"
+msgstr "Testa anslutning"
+
+#: core/class.AliExpress.Request2.php:346
+msgid "Page size input parameter error"
+msgstr "Sidstorlek inparameter fel"
+
+#: core/class.AliExpress.Request2.php:347
+msgid "Sort input parameter error"
+msgstr "Sortera inparameter fel"
+
+#: core/class.AliExpress.Request2.php:348
+msgid "Credit Score input parameter error"
+msgstr "Kredit värdering inparameter fel"
+
+#: core/class.AliExpress.Request2.php:368
+msgid "Product ID input parameter error"
+msgstr "Produkt ID inparameter fel"
+
+#: core/class.AliExpress.Request2.php:389
+msgid "URL input parameter error or beyond the maximum number of the URLs"
+msgstr "URL inparameter fel eller mer än det maximala antalet webbadresser"
+
+#: core/class.AliExpress.Settings.php:187
+msgid "Dashboard"
+msgstr "Instrumentbräda"
+
+#: core/class.AliExpress.Settings.php:188
+msgid "This displays the current information about your online store"
+msgstr "Detta visar aktuell information om din webbutik"
+
+#: core/class.AliExpress.Settings.php:1377
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: core/class.AliExpress.Settings.php:193
+msgid "Import Products"
+msgstr "Importera produkter"
+
+#: core/class.AliExpress.Settings.php:198
+msgid "Bulk Import"
+msgstr "Volym importera"
+
+#: core/class.AliExpress.Request2.php:335
+#: core/class.AliExpress.Request2.php:365
+#: core/class.AliExpress.Request2.php:385
+msgid "API name space input parameter error"
+msgstr "API namnutrymme inparameter fel"
+
+#: core/class.AliExpress.Request2.php:336
+#: core/class.AliExpress.Request2.php:366
+#: core/class.AliExpress.Request2.php:386
+msgid "API name input parameter error"
+msgstr "API namn inparameter fel"
+
+#: core/class.AliExpress.Request2.php:337
+#: core/class.AliExpress.Request2.php:367
+#: core/class.AliExpress.Request2.php:387
+msgid "Fields input parameter error"
+msgstr "Fält inparameter fel"
+
+#: core/class.AliExpress.Request2.php:338
+msgid "Keyword input parameter error"
+msgstr "Nyckelord-inmatnings parameterfel"
+
+#: core/class.AliExpress.Request2.php:339
+msgid "Category ID input parameter error"
+msgstr "Kategori ID inparameter fel"
+
+#: core/class.AliExpress.Request2.php:340
+#: core/class.AliExpress.Request2.php:388
+msgid "Tracking ID input parameter error"
+msgstr "Spårning ID inparameter fel"
+
+#: core/class.AliExpress.Request2.php:341
+msgid "Commission rate input parameter error"
+msgstr "Provisionssats inparameter fel"
+
+#: core/class.AliExpress.Request2.php:342
+msgid "Original Price input parameter error"
+msgstr "Ordinarie pris inparameter fel"
+
+#: core/class.AliExpress.Request2.php:343
+msgid "Discount input parameter error"
+msgstr "Rabatt inparameter fel"
+
+#: core/class.AliExpress.Request2.php:344
+msgid "Volume input parameter error"
+msgstr "Volym inparameter fel"
+
+#: core/class.AliExpress.Request2.php:345
+msgid "Page number input parameter error"
+msgstr "Sidnummer inparameter fel"
+
+#: core/class.AliExpress.Request2.php:72 core/class.AliExpress.Request2.php:96
+#: core/class.AliExpress.Request2.php:120
+msgid "Error code is: "
+msgstr "Felkod är:"
+
+#: core/class.AliExpress.Request2.php:77 core/class.AliExpress.Request2.php:101
+#: core/class.AliExpress.Request2.php:125
+msgid "Error, please try again"
+msgstr "Fel, försök igen"
+
+#: core/class.AliExpress.Request2.php:196
+#: core/class.AliExpress.Settings.php:1636
+msgid "Not found"
+msgstr "Hittades inte"
+
+#: core/class.AliExpress.Request2.php:329
+#: core/class.AliExpress.Request2.php:359
+#: core/class.AliExpress.Request2.php:379
+msgid "Call succeeds"
+msgstr "Lyckade besök"
+
+#: core/class.AliExpress.Request2.php:330
+#: core/class.AliExpress.Request2.php:360
+#: core/class.AliExpress.Request2.php:380
+msgid "System Error"
+msgstr "Systemfel"
+
+#: core/class.AliExpress.Request2.php:331
+#: core/class.AliExpress.Request2.php:361
+#: core/class.AliExpress.Request2.php:381
+msgid "Unauthorized transfer request"
+msgstr "Obehörig begäran om överföring"
+
+#: core/class.AliExpress.Request2.php:332
+#: core/class.AliExpress.Request2.php:362
+#: core/class.AliExpress.Request2.php:382
+msgid "Required parameters"
+msgstr "Parametrar som krävs"
+
+#: core/class.AliExpress.Request2.php:333
+#: core/class.AliExpress.Request2.php:363
+#: core/class.AliExpress.Request2.php:383
+msgid "Invalid protocol format"
+msgstr "Ogiltigt protokollformat"
+
+#: core/class.AliExpress.Request2.php:334
+#: core/class.AliExpress.Request2.php:364
+#: core/class.AliExpress.Request2.php:384
+msgid "API version input parameter error"
+msgstr "API-version inparameter fel"
+
+#: core/class.AliExpress.insertAPI.php:59
+#: core/class.AliExpress.insertAPI.php:79
+#: core/class.AliExpress.insertAPI.php:101
+#: core/class.AliExpress.insertAPI.php:128
+msgid "API Keys not found"
+msgstr "API nyckel hittades inte"
+
+#: core/class.AliExpress.insertAPI.php:457
+msgid "Checking connection in 4 steps"
+msgstr "Kontrollerar anslutning i 4 steg"
+
+#: core/class.AliExpress.insertAPI.php:458
+msgid "Step 1. Method:"
+msgstr "Steg 1. Metod:"
+
+#: core/class.AliExpress.insertAPI.php:468
+#: core/class.AliExpress.insertAPI.php:486
+#: core/class.AliExpress.insertAPI.php:502
+#: core/class.AliExpress.insertAPI.php:521
+msgid "the test is successful"
+msgstr "testet är framgångsrikt"
+
+#: core/class.AliExpress.insertAPI.php:474
+msgid "Step 2. Method:"
+msgstr "Steg 2. Metod:"
+
+#: core/class.AliExpress.insertAPI.php:477
+#: core/class.AliExpress.insertAPI.php:496
+#: core/class.AliExpress.insertAPI.php:512
+msgid "Can not be tested!"
+msgstr "Kan inte testas!"
+
+#: core/class.AliExpress.insertAPI.php:493
+msgid "Step 3. Method:"
+msgstr "Steg 3. Metod:"
+
+#: core/class.AliExpress.insertAPI.php:509
+msgid "Step 4. Method:"
+msgstr "Steg 4. Metod:"
+
+#: core/class.AliExpress.Request2.php:50
+msgid "Could not connect to AliExpress"
+msgstr "Det gick inte att ansluta till AliExpress"
+
+#: core/class.AliExpress.AdminTpl.php:93
+msgid "License"
+msgstr "Licens"
+
+#: core/class.AliExpress.AdminTpl.php:94
+msgid "Enter your License Key to activate the Plugin."
+msgstr "Fyll i din licensnyckel för att aktivera insticksprogrammet."
+
+#: core/class.AliExpress.AdminTpl.php:103
+msgid "License key"
+msgstr "Licensnyckel"
+
+#: core/class.AliExpress.AdminTpl.php:110
+msgid "Activate"
+msgstr "Aktivera"
+
+#: core/class.AliExpress.Settings.php:874
+#: core/class.AliExpress.Settings.php:1177 core/tmpl.review.php:170
+msgid "Select Category"
+msgstr "Välj kategori"
+
+#: core/class.AliExpress.Settings.php:358
+#: core/class.AliExpress.Settings.php:458
+#: core/class.AliExpress.Settings.php:647
+msgid "Save Changes"
+msgstr "Spara ändringar"

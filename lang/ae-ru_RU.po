@@ -1,0 +1,1699 @@
+# Translation of AliPlugin in Russian
+# This file is distributed under the same license as the AliPlugin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-24 07:11:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: AliPlugin\n"
+
+#: core/core.php:1005
+msgid "Nigerian naira (₦)"
+msgstr "Негерийская Найра (₦)"
+
+#: core/class.AliExpress.Settings.php:434
+msgid "Enable day timer for the products with exclusive discount price"
+msgstr "Включить реальный таймер для продуктов со скидкой"
+
+#: core/class.AliExpress.Settings.php:438
+msgid "Hot Deal Timer"
+msgstr "Таймер для горящих предложений"
+
+#: core/class.AliExpress.Settings.php:441
+msgid "Enable hour timer for the products with exclusive discount price"
+msgstr "Включить часовой таймер для продуктов со скидкой"
+
+#: core/class.AliExpress.Settings.php:1329 core/request.php:46
+msgid "You can not upload more than 10,000 Products at once."
+msgstr "Вы можете загрузить не более 10,000 товаров за один раз."
+
+#: core/tmpl.review.php:110 core/tmpl.review.php:120 core/tmpl.review.php:130
+#: core/tmpl.review.php:139 core/tmpl.review.php:149
+msgid "Order now"
+msgstr "Заказать"
+
+#: core/core.php:1014
+msgid "Thailand Baht (THB)"
+msgstr "Тайский Бат (THB)"
+
+#: core/core.php:1009
+msgid "Peso mexicano (MXN)"
+msgstr "Мексиканский Песо (MXN)"
+
+#: core/class.AliExpress.Settings.php:445
+msgid "Alibaba"
+msgstr "Alibaba"
+
+#: core/class.AliExpress.Settings.php:448
+msgid "Enable pop-up window with alibaba.com affiliate link"
+msgstr "Включить всплывающее окно с партнёрской ссылкой alibaba.com"
+
+#: core/class.AliExpress.Settings.php:452
+msgid "Alibaba link"
+msgstr "Партнёрская ссылка"
+
+#: core/class.AliExpress.Settings.php:558
+msgid "CSV Import"
+msgstr "CSV Импорт"
+
+#: core/class.AliExpress.Settings.php:559
+msgid "Import all categories, products and reviews from CSV file"
+msgstr "Импорт всех категорий, товаров и отзывов из CSV файла"
+
+#: core/class.AliExpress.Settings.php:929
+msgid "Big Sale"
+msgstr "Распродажа"
+
+#: core/class.AliExpress.Settings.php:932
+msgid "Products that are involved in 11.11 Global Shopping Festival"
+msgstr "Товары которые участвуют в 11.11 Global Shopping Festival"
+
+#: core/class.AliExpress.Settings.php:195
+#: core/class.AliExpress.Settings.php:199
+msgid "Using this module you can bulk import multiple products at once on your store"
+msgstr "Массовый импорт товаров в магазин"
+
+#: core/class.AliExpress.Settings.php:219
+msgid "Mandatory fields are APP Key and Tracking ID"
+msgstr "Обязательные поля APP Key и Tracking ID"
+
+#: core/class.AliExpress.Settings.php:224
+msgid "Mandatory fields are APP Key and Tracking ID."
+msgstr "Обязательные поля APP Key и Tracking ID"
+
+#: core/class.AliExpress.Settings.php:431
+msgid "Today&lsquo;s Deal"
+msgstr "Сделка дня"
+
+#: core/request.php:1522 core/request.php:1552
+msgid "I can't open file"
+msgstr "Не могу открыть файл"
+
+#: core/request.php:1601
+msgid "Pick"
+msgstr "Выбрать"
+
+#: core/request.php:1601
+msgid "Name"
+msgstr "Имя"
+
+#: core/request.php:1601
+msgid "Size"
+msgstr "Размер"
+
+#: core/request.php:1601
+msgid "Date"
+msgstr "Дата"
+
+#: core/core.php:996
+msgid "Bulgarian lev (BGN)"
+msgstr "Болгарский лев (BGN)"
+
+#: core/core.php:1003
+msgid "Indian Rupee (₹)"
+msgstr "Индийская рупия (₹)"
+
+#: core/class.AliExpress.Settings.php:892
+#: core/class.AliExpress.Settings.php:1206 core/tmpl.review.php:186
+msgid "Fixed commission for all categories"
+msgstr "Фиксированная комиссия для всех категорий"
+
+#: core/class.AliExpress.Settings.php:506
+msgid "Export all categories, products and reviews to CSV file"
+msgstr "Экспортировать все категории, товары и отзывы в CSV файл"
+
+#: core/class.AliExpress.Settings.php:509
+msgid "Export"
+msgstr "Экспорт"
+
+#: core/class.AliExpress.Settings.php:529
+msgid "Download"
+msgstr "Скачать"
+
+#: core/class.AliExpress.Settings.php:535
+msgid "Import CSV File"
+msgstr "Импортировать CSV файл"
+
+#: core/class.AliExpress.Settings.php:536
+msgid "import CSV description."
+msgstr "Импортировать CSV описания"
+
+#: core/class.AliExpress.Settings.php:547
+msgid "Select files and press upload"
+msgstr "Выберите файл и нажмите загрузить"
+
+#: core/class.AliExpress.Settings.php:562
+msgid "Import"
+msgstr "Импорт"
+
+#: core/class.AliExpress.Settings.php:574
+msgid "Files"
+msgstr "Файлы"
+
+#: core/class.AliExpress.Settings.php:505
+msgid "CSV Export"
+msgstr "CSV Экспорт"
+
+#: core/core.php:1002
+msgid "Israeli New Sheqel (₪)"
+msgstr "Новый израильский шекель (₪)"
+
+#: core/class.AliExpress.Settings.php:985
+#: core/class.AliExpress.Settings.php:1072
+msgid "Do not import the reviews with a rating less than selected"
+msgstr "Не импортировать отзывы с рейтингом ниже выбранного"
+
+#: core/class.AliExpress.Settings.php:972
+#: core/class.AliExpress.Settings.php:1059
+msgid "Select Rating"
+msgstr "Выберите рейтинг"
+
+#: core/class.AliExpress.Settings.php:980
+#: core/class.AliExpress.Settings.php:1067
+msgid "Star"
+msgstr "Звезда"
+
+#: core/class.AliExpress.Settings.php:346
+msgid "One-time update can refresh only 25 products for one cycle."
+msgstr "Обновление товаров происходит по 25 позиций за цикл"
+
+#: core/class.AliExpress.Publication.php:67
+msgid "Other"
+msgstr "Другие"
+
+#: core/class.AliExpress.Request2.php:64 core/class.AliExpress.Request2.php:88
+#: core/class.AliExpress.Request2.php:112
+msgid "Not found. Change search parameters and try again"
+msgstr "Не найдено. Измените параметры и повторите поиск"
+
+#: core/class.AliExpress.Settings.php:228
+msgid "Standards and formats are used to calculate such things as product price."
+msgstr "Стандарты и форматы используемые для расчёта цены товара в соответствующей валюте."
+
+#: core/core.php:1167
+msgid "Bahasa Indonesia"
+msgstr "Индонезийский"
+
+#: core/core.php:1001
+msgid "Indonesian rupiah (Rp)"
+msgstr "Индонезийский рупий (Rp)"
+
+#: core/core.php:1006
+msgid "New Zealand dollar (NZ$)"
+msgstr "Новозеландский доллар (NZ$)"
+
+#: core/core.php:1010
+msgid "Philippine peso (₱)"
+msgstr "Филиппинский песо (₱)"
+
+#: core/class.AliExpress.Settings.php:1091
+msgid "Start Import Review"
+msgstr "Импортировать Отзывы"
+
+#: core/class.AliExpress.Settings.php:1278 core/request.php:62
+msgid "Unit Type"
+msgstr "Фасовка"
+
+#: core/class.AliExpress.Settings.php:1284 core/request.php:67
+msgid "Piece"
+msgstr "Шт."
+
+#: core/class.AliExpress.Settings.php:1285 core/request.php:68
+msgid "Lot"
+msgstr "Партия"
+
+#: core/class.AliExpress.Settings.php:1296 core/request.php:70
+msgid "Import products with checked unit type"
+msgstr "Импортировать товары с выбранным типом заказа"
+
+#: core/class.AliExpress.Settings.php:1300
+msgid "Publish Status"
+msgstr "Статус публикации"
+
+#: core/class.AliExpress.Settings.php:1085
+msgid "Count of reviews"
+msgstr "Количество отзывов"
+
+#: core/class.AliExpress.Settings.php:218
+msgid "Settings"
+msgstr "Настройки"
+
+#: core/class.AliExpress.Settings.php:223
+msgid "API"
+msgstr "API"
+
+#: core/class.AliExpress.Settings.php:232
+msgid "Updates"
+msgstr "Обновления"
+
+#: core/class.AliExpress.Settings.php:264
+msgid "Update all products"
+msgstr "Обновить все товары"
+
+#: core/class.AliExpress.Settings.php:265
+msgid "Activate this option if you want to update all the products on your site at once"
+msgstr "Активируйте эту опцию если хотите обновить все товары на сайте."
+
+#: core/class.AliExpress.Settings.php:272
+msgid "Update products"
+msgstr "Обновить товары"
+
+#: core/class.AliExpress.Settings.php:966
+msgid "Review Uploading Tool"
+msgstr "Загрузка Отзывов"
+
+#: core/class.AliExpress.Settings.php:967
+msgid "The process works in 4 steps. 10 reviews are added to each product on your store during every step."
+msgstr "Загрузка идёт в 4 шага. На каждом шаге добавляется по 10 отзывов."
+
+#: core/class.AliExpress.Settings.php:968
+msgid "After completion of all 4 steps you will get up to 40 reviews for each item."
+msgstr "После завершения 4-го шага для каждого товара будет загружено до 40-ка отзывов"
+
+#: core/class.AliExpress.Settings.php:969
+msgid "You can update reviews anytime without getting duplicated ones."
+msgstr "Вы можете обновлять отзывы в любое время, дубликаты не будут создаваться"
+
+#: core/class.AliExpress.Settings.php:991
+msgid "Import Reviews"
+msgstr "Начать импорт"
+
+#: core/class.AliExpress.Settings.php:285
+#: core/class.AliExpress.Settings.php:523
+#: core/class.AliExpress.Settings.php:1007
+msgid "Stats"
+msgstr "Статистика"
+
+#: core/class.AliExpress.Settings.php:292
+#: core/class.AliExpress.Settings.php:526
+#: core/class.AliExpress.Settings.php:1010
+msgid "Current position"
+msgstr "Текущая позиция"
+
+#: core/class.AliExpress.Settings.php:212
+#: core/class.AliExpress.Settings.php:1009
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: core/class.AliExpress.Settings.php:214
+msgid "Add Reviews to your products."
+msgstr "Добавить отзывы для товаров."
+
+#: core/init.php:185 core/init.php:275
+msgid "Specials"
+msgstr "Со скидкой"
+
+#: core/init.php:190 core/init.php:280
+msgid "Enable special"
+msgstr "Опубликовать в товары со скидкой"
+
+#: core/class.AliExpress.Settings.php:749
+#: core/class.AliExpress.Settings.php:1198
+msgid "Select the category if you want to upload products in your own categories. Leave this field blank to make the Plugin create categories and upload products automatically. Necessary when selected All Categories"
+msgstr "Выберите категорию если вы хотите чтобы товары были загружены в вашу категорию. Оставьте поле пустым и плагин сам создаст необходимые категории. Если поиск по всем категориям, то поле обязательно"
+
+#: core/request.php:74
+msgid "Free Shipping"
+msgstr "Бесплатная доставка"
+
+#: core/core.php:440
+msgid "All Categories"
+msgstr "Все категории"
+
+#: core/class.AliExpress.Settings.php:1269
+msgid "Shipping"
+msgstr "Доставка"
+
+#: core/class.AliExpress.Settings.php:1273 core/request.php:77
+msgid "Import products with free shipping option only"
+msgstr "Импортировать товары только с бесплатной доставкой по всему миру."
+
+#: core/core.php:773
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: core/core.php:774
+msgid "Draft"
+msgstr "Черновик"
+
+#: core/class.AliExpress.Settings.php:768
+#: core/class.AliExpress.Settings.php:1317
+msgid "Use Publish option if you want to publish products instantly. Use Draft option if you need to edit products before they appear on your site."
+msgstr "Используйте опцию Опубликовать, если вы хотите опубликовать продукты после импорта. Используйте опцию Черновик, если после импорта нужно отредактировать продукты, перед тем как они появятся на вашем сайте."
+
+#: core/class.AliExpress.Settings.php:350
+msgid "Product Deletion"
+msgstr "Удаление продуктов"
+
+#: core/class.AliExpress.Settings.php:352
+msgid "Delete Products"
+msgstr "Удалить продукты"
+
+#: core/class.AliExpress.Settings.php:353
+msgid "The Plugin will remove products that are not available at AliExpress anymore."
+msgstr "Удалить продукты, которых больше нет в AliExpress при автоматическом обновлении или при обновлении ссылок."
+
+#: core/class.AliExpress.Settings.php:692
+msgid "Reset Counter"
+msgstr "Сбросить счетчики Просмотров и Переадресаций"
+
+#: core/menu.php:29
+msgid "AliPlugin Migrate"
+msgstr "AliPlugin Обновление"
+
+#: core/menu.php:30
+msgid "For proper operation of the plugin necessary to make changes to the database."
+msgstr "Для правильной работы плагина необходимо внести изменения в базу данных."
+
+#: core/menu.php:35
+msgid "Number of necessary changes"
+msgstr "Количество необходимых изменений"
+
+#: core/menu.php:38
+msgid "Amend"
+msgstr "Применить"
+
+#: core/class.Products.php:63
+msgid "piece"
+msgstr "шт."
+
+#: core/class.Products.php:63
+msgid "lot"
+msgstr "партия"
+
+#: core/class.AliExpress.Settings.php:462
+msgid "Update all Tracking IDs and product affiliate links."
+msgstr "Обновите все партнерские ссылки на продукты."
+
+#: core/core.php:1018
+msgid "South African Rand (ZAR)"
+msgstr "Южноафриканский рэнд (ZAR)"
+
+#: core/core.php:1008
+msgid "Malaysian Ringgit (MYR)"
+msgstr "Малайзийский ринггит (MYR)"
+
+#: core/core.php:1011
+msgid "Polish Zloty (PLN)"
+msgstr "Польский злотый (PLN)"
+
+#: core/core.php:1015
+msgid "South Korean Won (₩)"
+msgstr "Южнокорейская вона (₩)"
+
+#: core/openGraphProtocol.php:49
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: core/init.php:146 core/init.php:236
+msgid "SEO Title"
+msgstr "SEO заголовок"
+
+#: core/init.php:150 core/init.php:240
+msgid "Example: Samsung Galaxy Tab 10.1 GT"
+msgstr "Пример: Samsung Galaxy Tab 10.1 GT"
+
+#: core/init.php:173 core/init.php:263 core/init.php:709
+msgid "Noindex"
+msgstr "Noindex"
+
+#: core/init.php:178 core/init.php:268 core/init.php:714
+msgid "Enable noindex"
+msgstr "Включить noindex"
+
+#: core/class.AliExpress.Settings.php:638
+msgid "Rounding"
+msgstr "Округление цены"
+
+#: core/class.AliExpress.Settings.php:642
+msgid "The Prices will be rounded off to an integer"
+msgstr "Цена будет округлена до целых чисел"
+
+#: core/request.php:960
+msgid "Are you sure you want to delete all products?"
+msgstr "Вы уверены, что хотите удалить все продукты?"
+
+#: core/request.php:1009 core/request.php:1097
+msgid "Item not found"
+msgstr "Не найдено"
+
+#: core/openGraphProtocol.php:77
+msgid "Archive"
+msgstr "Архив"
+
+#: core/core.php:1172
+msgid "Russian"
+msgstr "Русский"
+
+#: core/core.php:1173
+msgid "Thai"
+msgstr "Тайский"
+
+#: core/core.php:1174
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: core/core.php:1175
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: core/core.php:1176
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: core/init.php:120
+msgid "SEO Metadata"
+msgstr "SEO"
+
+#: core/init.php:155 core/init.php:245
+msgid "SEO Description"
+msgstr "SEO Описание"
+
+#: core/init.php:159 core/init.php:249
+msgid "Example: World Map PU Leather Hard Stand Case For Samsung Galaxy Tab 10.1 GT P7500 P7510 Free Shipping"
+msgstr "Пример: World Map PU Leather Hard Stand Case For Samsung Galaxy Tab 10.1 GT P7500 P7510 Free Shipping"
+
+#: core/init.php:164 core/init.php:254
+msgid "SEO Keywords"
+msgstr "SEO Ключевые слова"
+
+#: core/core.php:1017
+msgid "US Dollar ($)"
+msgstr "Доллар США ($)"
+
+#: core/core.php:1161
+msgid "English"
+msgstr "Английский"
+
+#: core/core.php:1162
+msgid "Arabic"
+msgstr "Арабский"
+
+#: core/core.php:1163
+msgid "German"
+msgstr "Немецкий"
+
+#: core/core.php:1164
+msgid "Spanish"
+msgstr "Испанский"
+
+#: core/core.php:1165
+msgid "French"
+msgstr "Французский"
+
+#: core/core.php:1166
+msgid "Italian"
+msgstr "Итальянский"
+
+#: core/core.php:1168
+msgid "Japanese"
+msgstr "Японский"
+
+#: core/core.php:1169
+msgid "Korean"
+msgstr "Корейский"
+
+#: core/core.php:1170
+msgid "Netherlandish"
+msgstr "Нидерландский"
+
+#: core/core.php:1171
+msgid "Portuguese (Brasil)"
+msgstr "Португальский (Бразилия)"
+
+#: core/class.AliExpress.Settings.php:1357
+msgid "Translate from"
+msgstr "Перевести с"
+
+#: core/class.AliExpress.Settings.php:1370
+msgid "Translate to"
+msgstr "Перевести на"
+
+#: core/class.AliExpress.Settings.php:1375
+msgid "This parameter can be changed in"
+msgstr "Этот параметр можно изменить в"
+
+#: core/class.AliExpress.Settings.php:1389
+msgid "Pages"
+msgstr "Страницы"
+
+#: core/class.AliExpress.Settings.php:1392
+msgid "Product Categories"
+msgstr "Категории товаров"
+
+#: core/class.AliExpress.Settings.php:1406
+msgid "Translate Now"
+msgstr "Перевести"
+
+#: core/class.AliExpress.Settings.php:1425
+msgid "Original Title"
+msgstr "Оригинальное название"
+
+#: core/class.AliExpress.Settings.php:1426
+msgid "Action"
+msgstr "Действие"
+
+#: core/class.AliExpress.Settings.php:1433
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: core/class.AliExpress.Settings.php:1453
+msgid "Repair Original"
+msgstr "Восстановить оригинал"
+
+#: core/class.AliExpress.Settings.php:427
+msgid "Select language used for importing products data"
+msgstr "Выберите язык на котором будут импортироваться товары"
+
+#: core/class.AliExpress.Settings.php:414
+msgid "Language"
+msgstr "Язык"
+
+#: core/class.AliExpress.Settings.php:240
+msgid "Translation"
+msgstr "Переводчик"
+
+#: core/class.AliExpress.Settings.php:241
+msgid "Translate Page Titles and Categories"
+msgstr "Перевести название страниц и категорий"
+
+#: core/core.php:1013
+msgid "Saudi Riyal (SAR)"
+msgstr "Саудовский риал (SAR)"
+
+#: core/core.php:1016
+msgid "United Arab Emirates Dirham (AED)"
+msgstr "Дирхам, Объединенные Арабские Эмираты (AED)"
+
+#: core/tmpl.review.php:90
+msgid "No Follow"
+msgstr "Запретить переход по ссылкам"
+
+#: core/tmpl.review.php:97
+msgid "Save Shortcode"
+msgstr "Сохранить сокращенный код"
+
+#: core/tmpl.review.php:62
+msgid "Image on Right, Text on Left"
+msgstr "Изображение справа, текст слева"
+
+#: core/tmpl.review.php:63
+msgid "Image on Top, Text on Below"
+msgstr "Изображение сверху, текст снизу"
+
+#: core/tmpl.review.php:64
+msgid "Image on Below, Text on Top"
+msgstr "Изображение снизу, текст сверху"
+
+#: core/tmpl.review.php:65
+msgid "Text Only"
+msgstr "Только текст"
+
+#: core/tmpl.review.php:66
+msgid "Image Only"
+msgstr "Только изображение"
+
+#: core/tmpl.review.php:72
+msgid "Features"
+msgstr "Характеристики"
+
+#: core/tmpl.review.php:79
+msgid "Open in New Window"
+msgstr "Открыть в новом окне"
+
+#: core/tmpl.review.php:37
+msgid "Full Size"
+msgstr "Полноразмерный"
+
+#: core/tmpl.review.php:46
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: core/tmpl.review.php:48
+msgid "Left"
+msgstr "По левому краю"
+
+#: core/tmpl.review.php:49
+msgid "Right"
+msgstr "По правому краю"
+
+#: core/tmpl.review.php:50
+msgid "Center"
+msgstr "По центру"
+
+#: core/tmpl.review.php:59
+msgid "Layout"
+msgstr "Разметка"
+
+#: core/tmpl.review.php:61
+msgid "Image on Left, Text on Right"
+msgstr "Изображение слева, текст справа"
+
+#: core/shortcodes.php:102 core/shortcodes.php:111 core/shortcodes.php:120
+#: core/shortcodes.php:128 core/shortcodes.php:137 core/shortcodes.php:153
+#: core/tmpl.review.php:109 core/tmpl.review.php:119 core/tmpl.review.php:129
+#: core/tmpl.review.php:138 core/tmpl.review.php:148
+msgid "List Price"
+msgstr " Цена по каталогу"
+
+#: core/tmpl.review.php:3
+msgid "Insert Products"
+msgstr "Вставить товары"
+
+#: core/tmpl.review.php:7
+msgid "Back"
+msgstr "Назад"
+
+#: core/tmpl.review.php:33
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: core/tmpl.review.php:35
+msgid "Small 50x50"
+msgstr "Маленький 50x50"
+
+#: core/tmpl.review.php:36
+msgid "Medium 220x220"
+msgstr "Средний 220x220"
+
+#: core/request.php:809
+msgid "Link"
+msgstr "Ссылка"
+
+#: core/request.php:949
+msgid "You did not indicate how many imported products"
+msgstr "Вы не указали количество импортируемых товаров"
+
+#: core/request.php:950
+msgid "You specified a value greater than can be import"
+msgstr "Вы указали большее значение, чем может быть импортировано"
+
+#: core/request.php:951
+msgid "Product ID"
+msgstr "ID товара"
+
+#: core/request.php:955
+msgid "Get link"
+msgstr "Получить ссылку"
+
+#: core/request.php:956
+msgid "Preview"
+msgstr "Просмотр"
+
+#: core/request.php:957
+msgid "Prev"
+msgstr "Предыдущий"
+
+#: core/request.php:958
+msgid "Next"
+msgstr "Следующий"
+
+#: core/request.php:959
+msgid "This product does not participate in the Affiliate Program"
+msgstr "Данный товар не участвует в партнерской программе AliExpress"
+
+#: core/shortcodes.php:86
+msgid "Buy now"
+msgstr "Купить сейчас"
+
+#: core/request.php:640 core/request.php:649 core/request.php:685
+#: core/request.php:694
+msgid "Publish failed"
+msgstr "Публикация завершилась неудачей"
+
+#: core/request.php:653 core/request.php:700
+msgid "Publish success"
+msgstr "Публикация прошла успешно"
+
+#: core/request.php:799
+msgid "Wrong Request!"
+msgstr "Неверный запрос"
+
+#: core/request.php:209
+msgid "Sort by: "
+msgstr "Сортировка по:"
+
+#: core/request.php:211 core/request.php:229 core/request.php:311
+#: core/request.php:469
+msgid "Volume"
+msgstr "Объем"
+
+#: core/request.php:212
+msgid "Latest"
+msgstr "Последние"
+
+#: core/request.php:223 core/request.php:305 core/request.php:463
+msgid "Your commission is calculated based on your Affiliate Level"
+msgstr "Размер комиссии рассчитывается в соответствии с вашим уровнем в партнерской программе"
+
+#: core/request.php:225 core/request.php:307 core/request.php:465
+msgid "Commission"
+msgstr "Комиссия"
+
+#: core/request.php:227 core/request.php:309 core/request.php:467
+msgid "Commission you will earn"
+msgstr "Комиссия, которую вы получите"
+
+#: core/request.php:233 core/request.php:315 core/request.php:473
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: core/request.php:235 core/request.php:317 core/request.php:475
+msgid "Average star rating of the product on a 5-star scale"
+msgstr "Средний рейтинг товара по 5-балльной шкале"
+
+#: core/init.php:494 core/request.php:217 core/request.php:299
+#: core/request.php:457 core/tmpl.review.php:24
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: core/request.php:221 core/request.php:303 core/request.php:461
+msgid "Rate"
+msgstr "Процент"
+
+#: core/init.php:500
+msgid "Stock"
+msgstr "Наличие"
+
+#: core/init.php:566
+msgid "Show All"
+msgstr "Показать все"
+
+#: core/request.php:45 core/request.php:204 core/request.php:295
+#: core/request.php:454
+msgid "Total number of Products available for importing"
+msgstr "Общее количество товаров на импорт"
+
+#: core/request.php:81 core/request.php:952
+msgid "Import Now"
+msgstr "Импортировать сейчас"
+
+#: core/request.php:82 core/request.php:953
+msgid "Search Again"
+msgstr "Искать снова"
+
+#: core/request.php:83
+msgid "Stop Import"
+msgstr "Остановить импорт"
+
+#: core/request.php:93 core/request.php:245 core/request.php:325
+#: core/request.php:478
+msgid "Successfully imported"
+msgstr "Успешно импортировано"
+
+#: core/request.php:99 core/request.php:251 core/request.php:331
+#: core/request.php:478
+msgid "Could not be imported"
+msgstr "Не может быть импортировано"
+
+#: core/request.php:200 core/request.php:291
+msgid "Select Products to Import"
+msgstr "Выбрать товары для импорта"
+
+#: core/init.php:305
+msgid "Affiliate link"
+msgstr "Партнерская ссылка"
+
+#: core/init.php:313
+msgid "Availability"
+msgstr "Доступность"
+
+#: core/init.php:329
+msgid "Purchase volume"
+msgstr "Объем закупки"
+
+#: core/init.php:338
+msgid "Pieces per package"
+msgstr "Количество штук в комплекте"
+
+#: core/init.php:346
+msgid "Way of packaging"
+msgstr "Способ упаковки"
+
+#: core/init.php:354
+msgid "Images"
+msgstr "Изображения"
+
+#: core/init.php:384
+msgid "Attributes"
+msgstr "Особенности"
+
+#: core/init.php:493
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: core/init.php:97
+msgid "Product restored to revision from %s"
+msgstr "Товар восстановлен для исправления с %s"
+
+#: core/init.php:98
+msgid "Product published. <a href=\"%s\">View product</a>"
+msgstr "Товар опубликован. <a href=\"%s\">Просмотр товараt</a>"
+
+#: core/init.php:99
+msgid "Product saved."
+msgstr "Товар сохранен."
+
+#: core/init.php:100
+msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Товар подтвержден. <a target=\"_blank\" href=\"%s\">Посмотреть товар</a>"
+
+#: core/init.php:101
+msgid "Product scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview product</a>"
+msgstr "Импорт товаров запланирован на: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Посмотреть товар</a>"
+
+#: core/init.php:102
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: core/init.php:103
+msgid "Product draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgstr "Черновик товара обновлен. <a target=\"_blank\" href=\"%s\">Посмотреть товар</a>"
+
+#: core/init.php:204
+msgid "Products Option"
+msgstr "Опции товаров"
+
+#: core/init.php:287 core/init.php:499
+msgid "Price"
+msgstr "Цена"
+
+#: core/init.php:291
+msgid "Example: US $14.98"
+msgstr "Например: US $14.98"
+
+#: core/init.php:296
+msgid "Sale Price"
+msgstr "Распродажная цена"
+
+#: core/init.php:300
+msgid "Example: US $10.44"
+msgstr "Например: US $10.44"
+
+#: core/init.php:168 core/init.php:258
+msgid "Example: screen protector"
+msgstr "Например: защитная пленка на экран"
+
+#: core/init.php:23
+msgid "Products not found"
+msgstr "Товары не найдены"
+
+#: core/init.php:24
+msgid "Trash is empty"
+msgstr "Корзина пуста"
+
+#: core/init.php:49 core/init.php:496
+msgid "Category"
+msgstr "Категория"
+
+#: core/init.php:51
+msgid "All categories"
+msgstr "Все категории"
+
+#: core/init.php:52
+msgid "Parent category"
+msgstr "Родительская категория"
+
+#: core/init.php:53
+msgid "Parent category: "
+msgstr "Родительская категория:"
+
+#: core/init.php:54
+msgid "Edit category"
+msgstr "Редактировать категорию"
+
+#: core/init.php:55
+msgid "Update category"
+msgstr "Обновить категорию"
+
+#: core/init.php:56
+msgid "Add a new category"
+msgstr "Добавить категорию"
+
+#: core/init.php:57
+msgid "The new name of the category"
+msgstr "Новое название категории"
+
+#: core/init.php:93
+msgid "Product updated. <a href=\"%s\">View product</a>"
+msgstr "Товар обновлен. <a href=\"%s\">Посмотреть товар</a>"
+
+#: core/init.php:94
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено"
+
+#: core/init.php:95
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено"
+
+#: core/init.php:96
+msgid "Product updated."
+msgstr "Товар обновлен."
+
+#: core/core.php:998
+msgid "Chinese Yuan (CN¥)"
+msgstr "Китайский юань (CN¥)"
+
+#: core/core.php:999
+msgid "Czech Republic Koruna (CZK)"
+msgstr "Чешская крона (CZK)"
+
+#: core/core.php:1000
+msgid "Euro (€)"
+msgstr "Евро (€)"
+
+#: core/core.php:1004
+msgid "British Pound Sterling (£)"
+msgstr "Британский фунт стерлингов (£)"
+
+#: core/core.php:1007
+msgid "Norwegian Krone (NOK)"
+msgstr "Норвежская крона (NOK)"
+
+#: core/core.php:1012
+msgid "Russian Ruble (RUB)"
+msgstr "Российский рубль (RUB)"
+
+#: core/init.php:15 core/init.php:28
+msgid "Item"
+msgstr "Элемент"
+
+#: core/init.php:16
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: core/init.php:17
+msgid "Add a new Item"
+msgstr "Добавить новый элемент"
+
+#: core/init.php:18
+msgid "Edit Item"
+msgstr "Редактировать элемент"
+
+#: core/init.php:19
+msgid "New Item"
+msgstr "Новый элемент"
+
+#: core/init.php:20
+msgid "All Items"
+msgstr "Все элементы"
+
+#: core/init.php:21
+msgid "View"
+msgstr "Просмотр"
+
+#: core/core.php:469
+msgid "Watches"
+msgstr "Часы"
+
+#: core/class.AliExpress.Settings.php:288
+#: core/class.AliExpress.Settings.php:1008 core/core.php:642 core/init.php:14
+#: core/init.php:26
+msgid "Products"
+msgstr "Товары"
+
+#: core/core.php:670
+msgid "No categories"
+msgstr "Нет категорий"
+
+#: core/core.php:738
+msgid "failed: "
+msgstr "ошибка:"
+
+#: core/core.php:740
+msgid "failed to connection"
+msgstr "не удалось подключиться"
+
+#: core/core.php:762
+msgid "License type: %s"
+msgstr "Тип лицензии: %s"
+
+#: core/core.php:951
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr "Возникла непредвиденная ошибка HTTP во время API запроса.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+
+#: core/core.php:959
+msgid "An unknown error occurred"
+msgstr "Произошла неизвестная ошибка"
+
+#: core/core.php:994
+msgid "Australian Dollar (A$)"
+msgstr "Австралийский доллар (A$)"
+
+#: core/core.php:995
+msgid "Brazilian Real (R$)"
+msgstr "Бразильский реал (R$)"
+
+#: core/core.php:997
+msgid "Canadian Dollar (CA$)"
+msgstr "Канадский доллар (CA$)"
+
+#: core/core.php:456
+msgid "Home Appliances"
+msgstr "Бытовая техника"
+
+#: core/core.php:457
+msgid "Industry & Business"
+msgstr "Бизнес и промышленность"
+
+#: core/core.php:458
+msgid "Jewelry & Watch"
+msgstr "Часы и ювелирные изделия"
+
+#: core/core.php:459
+msgid "Lights & Lighting"
+msgstr "Освещение"
+
+#: core/core.php:460
+msgid "Luggage & Bags"
+msgstr "Сумки "
+
+#: core/core.php:461
+msgid "Office & School Supplies"
+msgstr "Товары для школы и офиса"
+
+#: core/core.php:462
+msgid "Phones & Telecommunications"
+msgstr "Телефоны и коммуникация"
+
+#: core/core.php:463
+msgid "Security & Protection"
+msgstr "Защита и безопасность"
+
+#: core/core.php:464
+msgid "Shoes"
+msgstr "Обувь"
+
+#: core/core.php:465
+msgid "Special Category"
+msgstr "Дополнительная категория"
+
+#: core/core.php:466
+msgid "Sports & Entertainment"
+msgstr "Спорт и развлечения"
+
+#: core/core.php:467
+msgid "Tools"
+msgstr "Инструменты"
+
+#: core/core.php:468
+msgid "Toys & Hobbies"
+msgstr "Игрушки и хобби"
+
+#: core/core.php:447
+msgid "Consumer Electronics"
+msgstr "Бытовая электроника"
+
+#: core/core.php:448
+msgid "Customized Products"
+msgstr "Товары под заказ"
+
+#: core/core.php:449
+msgid "Electrical Equipment & Supplies"
+msgstr "Электрооборудование"
+
+#: core/core.php:450
+msgid "Electronic Components & Supplies"
+msgstr "Электродетали и комплектующие"
+
+#: core/core.php:451
+msgid "Food"
+msgstr "Еда"
+
+#: core/core.php:452
+msgid "Furniture"
+msgstr "Мебель"
+
+#: core/core.php:453
+msgid "Hair & Accessories"
+msgstr "Аксессуары для волос"
+
+#: core/core.php:454
+msgid "Hardware"
+msgstr "Оборудование"
+
+#: core/core.php:455
+msgid "Home & Garden"
+msgstr "Дом и сад"
+
+#: core/core.php:420
+msgid "Restore"
+msgstr "Восстановление"
+
+#: core/core.php:441
+msgid "Apparel & Accessories"
+msgstr "Одежда и аксессуары"
+
+#: core/core.php:442
+msgid "Automobiles & Motorcycles"
+msgstr "Автомобили и мотоциклы"
+
+#: core/core.php:443
+msgid "Baby Products"
+msgstr "Товары для детей"
+
+#: core/core.php:444
+msgid "Beauty & Health"
+msgstr "Красота и здоровье"
+
+#: core/core.php:445
+msgid "Computer & Networking"
+msgstr "Компьютеры и сеть"
+
+#: core/core.php:446
+msgid "Construction & Real Estate"
+msgstr "Недвижимость и строительство"
+
+#: core/class.AliExpress.Settings.php:1328
+msgid "Total number of Products available for importing:"
+msgstr "Общее количество товаров доступных для импорта:"
+
+#: core/request.php:205
+msgid "You can upload not more than 10,000 Products at once."
+msgstr "Вы можете загрузить не более 10 000 товаров за один раз."
+
+#: core/class.AliExpress.Settings.php:1333 core/request.php:50
+msgid "Choose the number of products to import"
+msgstr "Выберите количество товаров для импорта"
+
+#: core/class.AliExpress.Settings.php:1338
+msgid "Start Import"
+msgstr "Начать импорт"
+
+#: core/class.AliExpress.Settings.php:1517
+#: core/class.AliExpress.Settings.php:1558
+#: core/class.AliExpress.Settings.php:1595
+#: core/class.AliExpress.Settings.php:1617
+msgid "saved"
+msgstr "сохранено"
+
+#: core/class.AliExpress.Settings.php:1541
+msgid "Currency converter settings will not be saved"
+msgstr "Настройки конвертера валют не будут сохранены"
+
+#: core/class.AliExpress.Settings.php:1558
+msgid "Currency converter settings"
+msgstr "Настройки конвертера валют"
+
+#: core/class.AliExpress.Settings.php:1595
+#: core/class.AliExpress.Settings.php:1617
+msgid "Setting"
+msgstr "Настройки"
+
+#: core/class.AliExpress.Settings.php:1676 core/init.php:497
+msgid "Views"
+msgstr "Просмотры"
+
+#: core/class.AliExpress.Settings.php:1677 core/init.php:498
+msgid "Redirects"
+msgstr "Переходы"
+
+#: core/core.php:408 core/menu.php:11
+msgid "AliPlugin"
+msgstr "AliPlugin"
+
+#: core/class.AliExpress.Settings.php:1454 core/core.php:418
+msgid "Translate"
+msgstr "Перевести"
+
+#: core/class.AliExpress.Settings.php:806
+#: core/class.AliExpress.Settings.php:822
+msgid "Promote with Link"
+msgstr "Продвижение ссылкой"
+
+#: core/class.AliExpress.Settings.php:810
+#: core/class.AliExpress.Settings.php:826
+msgid "HTML Code"
+msgstr "HTML код"
+
+#: core/class.AliExpress.Settings.php:818
+msgid "Banner Preview"
+msgstr "Просмотр баннера"
+
+#: core/class.AliExpress.Settings.php:846
+msgid "General Search"
+msgstr "Общий поиск"
+
+#: core/class.AliExpress.Settings.php:847
+msgid "Search by Product ID"
+msgstr "Поиск по ID товара"
+
+#: core/class.AliExpress.Settings.php:881
+#: core/class.AliExpress.Settings.php:1184 core/tmpl.review.php:176
+msgid "Enter Keywords"
+msgstr "Ввести ключевые слова"
+
+#: core/class.AliExpress.Settings.php:884
+#: core/class.AliExpress.Settings.php:1187 core/tmpl.review.php:179
+msgid "Leave the field blank to import ALL products from selected category"
+msgstr "Оставьте поле пустым,чтобы импортировать ВСЕ товары из выбранной категории"
+
+#: core/class.AliExpress.Settings.php:889
+#: core/class.AliExpress.Settings.php:1203 core/init.php:321
+#: core/tmpl.review.php:183
+msgid "Commission Rate"
+msgstr "Процент комиссии"
+
+#: core/class.AliExpress.Settings.php:897
+#: core/class.AliExpress.Settings.php:1211 core/tmpl.review.php:190
+msgid "Purchase Volume"
+msgstr "Объем продаж"
+
+#: core/class.AliExpress.Settings.php:901
+#: core/class.AliExpress.Settings.php:1215 core/init.php:333
+#: core/request.php:231 core/request.php:313 core/request.php:471
+#: core/tmpl.review.php:194
+msgid "The amount of purchases of the product over the last 30-day period"
+msgstr "Количество продаж данного товара за последние 30 дней"
+
+#: core/class.AliExpress.Settings.php:909
+#: core/class.AliExpress.Settings.php:1223 core/tmpl.review.php:208
+msgid "Feedback Score"
+msgstr "Количество отзывов"
+
+#: core/class.AliExpress.Settings.php:913
+#: core/class.AliExpress.Settings.php:1227 core/tmpl.review.php:212
+msgid "The total number of positive feedback received by a seller"
+msgstr "Общее количество положительных отзывов продавца"
+
+#: core/class.AliExpress.Settings.php:921
+#: core/class.AliExpress.Settings.php:1235 core/request.php:210
+#: core/request.php:219 core/request.php:301 core/request.php:459
+#: core/tmpl.review.php:201
+msgid "Unit Price"
+msgstr "Цена за единицу"
+
+#: core/class.AliExpress.Settings.php:1110
+msgid "Search for products by using the product ID"
+msgstr "Поиск товаров по ID товара"
+
+#: core/class.AliExpress.Settings.php:1110
+msgid "Where can I find product ID?"
+msgstr "Где я могу найти ID товара?"
+
+#: core/class.AliExpress.Settings.php:1115
+msgid "Enter Product ID or a list of Product IDs separated by commas"
+msgstr "Добавить ID товара или список ID товаров разделенный запятыми"
+
+#: core/class.AliExpress.Settings.php:1121 core/init.php:22 core/init.php:50
+msgid "Search"
+msgstr "Поиск"
+
+#: core/class.AliExpress.Settings.php:1079
+#: core/class.AliExpress.Settings.php:1265
+msgid "Enabled Scheduled Import"
+msgstr "Включить запланированнй импорт"
+
+#: core/class.AliExpress.Settings.php:227
+msgid "Currency"
+msgstr "Валюта"
+
+#: core/class.AliExpress.Settings.php:615
+msgid "Select Currency"
+msgstr "Выбрать валюту"
+
+#: core/class.AliExpress.Settings.php:625
+msgid "Convert U.S. Dollars to foreign currencies"
+msgstr "Конвертировать доллар США в другие иностранные валюты"
+
+#: core/class.AliExpress.Settings.php:633
+msgid "Enable currency converter"
+msgstr "Включить конвертер валют"
+
+#: core/class.AliExpress.Settings.php:236
+msgid "Cleanup"
+msgstr "Очистка"
+
+#: core/class.AliExpress.Settings.php:237
+msgid "All existent products imported in your store will be removed."
+msgstr "Все товары на сайте будут удалены."
+
+#: core/class.AliExpress.Settings.php:490
+msgid "Remove"
+msgstr "Удалить"
+
+#: core/class.AliExpress.Settings.php:743
+#: core/class.AliExpress.Settings.php:1192 core/init.php:48 core/init.php:58
+msgid "Categories"
+msgstr "Категории"
+
+#: core/class.AliExpress.Settings.php:751
+#: core/class.AliExpress.Settings.php:1200
+msgid "Add new Category"
+msgstr "Добавить новую категорию"
+
+#: core/class.AliExpress.Settings.php:792 core/request.php:30
+#: core/request.php:39 core/request.php:192 core/request.php:202
+#: core/request.php:283 core/request.php:293 core/request.php:446
+msgid "Close"
+msgstr "Закрыть"
+
+#: core/class.AliExpress.Settings.php:795
+msgid "Promoted by link"
+msgstr "Продвижение ссылкой"
+
+#: core/class.AliExpress.Settings.php:798
+msgid "Promoted by banner"
+msgstr "Продвижение баннером"
+
+#: core/class.AliExpress.Settings.php:459
+msgid "Update Links"
+msgstr "Обновить ссылки"
+
+#: core/class.AliExpress.Settings.php:277
+#: core/class.AliExpress.Settings.php:470
+#: core/class.AliExpress.Settings.php:485
+#: core/class.AliExpress.Settings.php:515
+#: core/class.AliExpress.Settings.php:567
+#: core/class.AliExpress.Settings.php:996
+#: core/class.AliExpress.Settings.php:1413 core/request.php:105
+#: core/request.php:478 core/request.php:954
+msgid "Overall Progress"
+msgstr "Процесс"
+
+#: core/class.AliExpress.Settings.php:299
+#: core/class.AliExpress.Settings.php:1517
+msgid "Automatic Updates"
+msgstr "Автоматические обновления"
+
+#: core/class.AliExpress.Settings.php:300
+msgid "Auto updating system will keep your product info fresh with the latest data from AliExpress."
+msgstr "Система автоматического обновления будет максимально часто обновлять информацию о товарах на вашем сайте, используя данные с AliExpress."
+
+#: core/class.AliExpress.Settings.php:323
+#: core/class.AliExpress.Settings.php:630
+#: core/class.AliExpress.Settings.php:755
+#: core/class.AliExpress.Settings.php:1077
+#: core/class.AliExpress.Settings.php:1262
+msgid "Status"
+msgstr "Статус"
+
+#: core/class.AliExpress.Settings.php:326
+msgid "Enable auto updating system"
+msgstr "Включить систему автоматического обновления"
+
+#: core/class.AliExpress.Settings.php:331
+#: core/class.AliExpress.Settings.php:1042
+#: core/class.AliExpress.Settings.php:1243
+msgid "Select Interval"
+msgstr "Выбрать интервал"
+
+#: core/class.AliExpress.Settings.php:1257
+msgid "One-time update can refresh only 10 products for one cycle."
+msgstr "Вы можете обновить только 10 товаров за один раз."
+
+#: core/class.AliExpress.Settings.php:1424 core/init.php:495
+#: core/request.php:218 core/request.php:300 core/request.php:458
+#: core/tmpl.review.php:15
+msgid "Title"
+msgstr "Название"
+
+#: core/class.AliExpress.Settings.php:202
+msgid "Selective Import"
+msgstr "Выборочный импорт"
+
+#: core/class.AliExpress.Settings.php:203
+msgid "Find and select particular products to import"
+msgstr "Найти и выбрать определенные товары для импорта"
+
+#: core/class.AliExpress.Settings.php:206
+msgid "Scheduled Import"
+msgstr "Запланированный импорт"
+
+#: core/class.AliExpress.Settings.php:207
+msgid "Using this module the system will automatically import and update products on your site according  to given parameters"
+msgstr "Данный модуль автоматически импортирует товары на ваш сайт соглазно установленным переметрам"
+
+#: core/class.AliExpress.Settings.php:666
+msgid "Total Number of Products"
+msgstr "Общее количество товаров"
+
+#: core/class.AliExpress.Settings.php:672
+msgid "Total Products Views"
+msgstr "Общее количество просмотров"
+
+#: core/class.AliExpress.Settings.php:678
+msgid "Total Redirected to AliExpress"
+msgstr "Всего переадресаций на AliExpress"
+
+#: core/class.AliExpress.Settings.php:687
+msgid "How It Works"
+msgstr "Как это работает"
+
+#: core/class.AliExpress.Settings.php:688
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: core/class.AliExpress.Settings.php:712
+msgid "Top"
+msgstr "Топ"
+
+#: core/class.AliExpress.Settings.php:721
+msgid "Products Performances"
+msgstr "Товарные характеристики"
+
+#: core/class.AliExpress.Settings.php:723
+#: core/class.AliExpress.Settings.php:938
+#: core/class.AliExpress.Settings.php:1322 core/tmpl.review.php:219
+msgid "Apply Filter"
+msgstr "Применить фильтр"
+
+#: core/class.AliExpress.Settings.php:378
+msgid "The following fields are required in order to send requests to AliExpress and retrieve data about products."
+msgstr "Данные поля обязательны для заполнения чтобы отправлять и запрашивать данные о товарах с AliExpress."
+
+#: core/class.AliExpress.Settings.php:381
+msgid "APP Key"
+msgstr "APP ключ"
+
+#: core/class.AliExpress.Settings.php:388
+msgid "Tracking ID"
+msgstr "Tracking ID ключ"
+
+#: core/class.AliExpress.Settings.php:394
+msgid "Select Method"
+msgstr "Выберите метод"
+
+#: core/class.AliExpress.Settings.php:410
+msgid "Select method used to request data from AliExpress and test connection"
+msgstr "Выберите способ, чтобы запросить данные о товарах с AliExpress и проверить соединения"
+
+#: core/class.AliExpress.Settings.php:384
+msgid "Test Connection"
+msgstr "Тест соединения"
+
+#: core/class.AliExpress.Request2.php:346
+msgid "Page size input parameter error"
+msgstr "Параметр количества товаров на странице указан неверно"
+
+#: core/class.AliExpress.Request2.php:347
+msgid "Sort input parameter error"
+msgstr "Параметр сортировки указан неверно"
+
+#: core/class.AliExpress.Request2.php:348
+msgid "Credit Score input parameter error"
+msgstr "Параметр кредитный счет указан неверно"
+
+#: core/class.AliExpress.Request2.php:368
+msgid "Product ID input parameter error"
+msgstr "Параметр ID товара указан неверно"
+
+#: core/class.AliExpress.Request2.php:389
+msgid "URL input parameter error or beyond the maximum number of the URLs"
+msgstr "Параметр URL указан неверно или превышено максимальное количество URL"
+
+#: core/class.AliExpress.Settings.php:187
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: core/class.AliExpress.Settings.php:188
+msgid "This displays the current information about your online store"
+msgstr "Здесь указана актуальная информация о вашем онлайн магазине"
+
+#: core/class.AliExpress.Settings.php:1377
+msgid "Configuration"
+msgstr "Настройки"
+
+#: core/class.AliExpress.Settings.php:193
+msgid "Import Products"
+msgstr "Импорт товаров"
+
+#: core/class.AliExpress.Settings.php:198
+msgid "Bulk Import"
+msgstr "Массовый импорт"
+
+#: core/class.AliExpress.Request2.php:335
+#: core/class.AliExpress.Request2.php:365
+#: core/class.AliExpress.Request2.php:385
+msgid "API name space input parameter error"
+msgstr "Параметр места названия API указан неверно"
+
+#: core/class.AliExpress.Request2.php:336
+#: core/class.AliExpress.Request2.php:366
+#: core/class.AliExpress.Request2.php:386
+msgid "API name input parameter error"
+msgstr "Параметр название API указан неверно"
+
+#: core/class.AliExpress.Request2.php:337
+#: core/class.AliExpress.Request2.php:367
+#: core/class.AliExpress.Request2.php:387
+msgid "Fields input parameter error"
+msgstr "Параметр поле ввода указан неверно"
+
+#: core/class.AliExpress.Request2.php:338
+msgid "Keyword input parameter error"
+msgstr "Параметр ключевое слово указан неверно"
+
+#: core/class.AliExpress.Request2.php:339
+msgid "Category ID input parameter error"
+msgstr "Параметр категория ID указан неверно"
+
+#: core/class.AliExpress.Request2.php:340
+#: core/class.AliExpress.Request2.php:388
+msgid "Tracking ID input parameter error"
+msgstr "Параметр Tracking ID ключ указан неверно"
+
+#: core/class.AliExpress.Request2.php:341
+msgid "Commission rate input parameter error"
+msgstr "Параметр комиссии указан неверно"
+
+#: core/class.AliExpress.Request2.php:342
+msgid "Original Price input parameter error"
+msgstr "Параметр цены указан неверно"
+
+#: core/class.AliExpress.Request2.php:343
+msgid "Discount input parameter error"
+msgstr "Параметр скидки указан неверно"
+
+#: core/class.AliExpress.Request2.php:344
+msgid "Volume input parameter error"
+msgstr "Параметр количества продаж указан неверно"
+
+#: core/class.AliExpress.Request2.php:345
+msgid "Page number input parameter error"
+msgstr "Номер страницы указан неверно"
+
+#: core/class.AliExpress.Request2.php:72 core/class.AliExpress.Request2.php:96
+#: core/class.AliExpress.Request2.php:120
+msgid "Error code is: "
+msgstr "Код ошибки:"
+
+#: core/class.AliExpress.Request2.php:77 core/class.AliExpress.Request2.php:101
+#: core/class.AliExpress.Request2.php:125
+msgid "Error, please try again"
+msgstr "Ошибка, попробуйте позже"
+
+#: core/class.AliExpress.Request2.php:196
+#: core/class.AliExpress.Settings.php:1636
+msgid "Not found"
+msgstr "Не найдено"
+
+#: core/class.AliExpress.Request2.php:329
+#: core/class.AliExpress.Request2.php:359
+#: core/class.AliExpress.Request2.php:379
+msgid "Call succeeds"
+msgstr "Запрос успешен"
+
+#: core/class.AliExpress.Request2.php:330
+#: core/class.AliExpress.Request2.php:360
+#: core/class.AliExpress.Request2.php:380
+msgid "System Error"
+msgstr "Системная ошибка"
+
+#: core/class.AliExpress.Request2.php:331
+#: core/class.AliExpress.Request2.php:361
+#: core/class.AliExpress.Request2.php:381
+msgid "Unauthorized transfer request"
+msgstr "Неразрешенный запрос"
+
+#: core/class.AliExpress.Request2.php:332
+#: core/class.AliExpress.Request2.php:362
+#: core/class.AliExpress.Request2.php:382
+msgid "Required parameters"
+msgstr "Обязательные параметры"
+
+#: core/class.AliExpress.Request2.php:333
+#: core/class.AliExpress.Request2.php:363
+#: core/class.AliExpress.Request2.php:383
+msgid "Invalid protocol format"
+msgstr "Неверный формат протокола"
+
+#: core/class.AliExpress.Request2.php:334
+#: core/class.AliExpress.Request2.php:364
+#: core/class.AliExpress.Request2.php:384
+msgid "API version input parameter error"
+msgstr "Версия API параметра неверная"
+
+#: core/class.AliExpress.insertAPI.php:59
+#: core/class.AliExpress.insertAPI.php:79
+#: core/class.AliExpress.insertAPI.php:101
+#: core/class.AliExpress.insertAPI.php:128
+msgid "API Keys not found"
+msgstr "Ключ API не найден"
+
+#: core/class.AliExpress.insertAPI.php:457
+msgid "Checking connection in 4 steps"
+msgstr "Проверка соединения (4 этапа)"
+
+#: core/class.AliExpress.insertAPI.php:458
+msgid "Step 1. Method:"
+msgstr "Этап 1. Метод:"
+
+#: core/class.AliExpress.insertAPI.php:468
+#: core/class.AliExpress.insertAPI.php:486
+#: core/class.AliExpress.insertAPI.php:502
+#: core/class.AliExpress.insertAPI.php:521
+msgid "the test is successful"
+msgstr "тестирование успешно"
+
+#: core/class.AliExpress.insertAPI.php:474
+msgid "Step 2. Method:"
+msgstr "Этап 2. Метод:"
+
+#: core/class.AliExpress.insertAPI.php:477
+#: core/class.AliExpress.insertAPI.php:496
+#: core/class.AliExpress.insertAPI.php:512
+msgid "Can not be tested!"
+msgstr "Тест невозможен!"
+
+#: core/class.AliExpress.insertAPI.php:493
+msgid "Step 3. Method:"
+msgstr "Этап 3. Метод:"
+
+#: core/class.AliExpress.insertAPI.php:509
+msgid "Step 4. Method:"
+msgstr "Этап 4. Метод:"
+
+#: core/class.AliExpress.Request2.php:50
+msgid "Could not connect to AliExpress"
+msgstr "Не удалось установить соединение с AliExpress"
+
+#: core/class.AliExpress.AdminTpl.php:93
+msgid "License"
+msgstr "Лицензия"
+
+#: core/class.AliExpress.AdminTpl.php:94
+msgid "Enter your License Key to activate the Plugin."
+msgstr "Введите лицензионный ключ чтобы активировать плагин"
+
+#: core/class.AliExpress.AdminTpl.php:103
+msgid "License key"
+msgstr "Лицензионный ключ"
+
+#: core/class.AliExpress.AdminTpl.php:110
+msgid "Activate"
+msgstr "Активировать"
+
+#: core/class.AliExpress.Settings.php:874
+#: core/class.AliExpress.Settings.php:1177 core/tmpl.review.php:170
+msgid "Select Category"
+msgstr "Выберите категорию"
+
+#: core/class.AliExpress.Settings.php:358
+#: core/class.AliExpress.Settings.php:458
+#: core/class.AliExpress.Settings.php:647
+msgid "Save Changes"
+msgstr "Сохранить"
